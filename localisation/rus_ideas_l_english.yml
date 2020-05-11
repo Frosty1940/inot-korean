@@ -56,6 +56,9 @@
  russian_sanctions_idea:0 "러시아 경제 제재"
  RUS_wargoal_sphere_idea:0 "러시아의 영향권"
  RUS_bukhara_integration:0 "부하라 지역 통합"
+ RUS_tsar_stays:0 "러시아에 남은 차르"
+ RUS_tsar_leaves:0 "망명한 차르"
+
  ####country stuff####
  RUS_vladimir_nabokov:0 "블라디미르 나보코프"
  RUS_alexander_guchkov:0 "알렉산드르 구치코프"
@@ -148,3 +151,5 @@
  #Decisions
  RUS_army_actions:0 "군사적 행동"
  RUS_no_step_back_decision:0 "후퇴 절대 금지 명령!"
+ RUS_lenin_from_exile:0 "망명지에서 레닌을 데려오기" 
+ RUS_lenin_from_exile_desc:0 "진정한 혁명을 이루기 위해서는 위대한 공산주의 철학자 블라디미르 일리치 레닌을 망명에서 되찾아야 합니다."
