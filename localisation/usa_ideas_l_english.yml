@@ -1,64 +1,64 @@
 ﻿l_english:
-  US_power_struggle:0 "Power Struggle"
+  US_power_struggle:0 "권력 투쟁"
  
-  US_forced_labour:0 "Forced Labour"
+  US_forced_labour:0 "강제 노동"
 
-  US_pwa:0 "Public Works Administration"
-  US_pwa_1:0 "Civil Works Administration"
+  US_pwa:0 "공공사업청"
+  US_pwa_1:0 "민간사업청"
 
-  US_fbi_idea:0 "Department of Justice I"
-  US_fbi_idea_1:0 "Department of Justice II"
-  US_fbi_idea_2:0 "Department of Justice III"
-  US_fbi_idea_3:0 "Department of Justice IV"
+  US_fbi_idea:0 "법무부 I"
+  US_fbi_idea_1:0 "법무부 II"
+  US_fbi_idea_2:0 "법무부 III"
+  US_fbi_idea_3:0 "법무부 IV"
 
-  US_department_labour_idea:0 "Department of Labour I"
-  US_department_labour_idea_1:0 "Department of Labour II"
-  US_department_labour_idea_2:0 "Department of Labour III"
-  US_department_labour_idea_3:0 "Department of Labour IV"
+  US_department_labour_idea:0 "노동부 I"
+  US_department_labour_idea_1:0 "노동부 II"
+  US_department_labour_idea_2:0 "노동부 III"
+  US_department_labour_idea_3:0 "노동부 IV"
 
-  US_CIA_idea:0 "Foreign Security Agency"
+  US_CIA_idea:0 "외무부"
 
-  US_famine_stage_1_idea:0 "Nationwide Food Shortages"
+  US_famine_stage_1_idea:0 "전국적 식량 부족"
 
-  US_executive_order:0 "Executive Orders"
+  US_executive_order:0 "행정 명령"
 
-  USA_department_of_defense:0 "Department of Defense"
+  USA_department_of_defense:0 "국방부"
 
-  USA_us_air_force:0 "American Aces"
+  USA_us_air_force:0 "미국인 에이스"
 
-  air_war_plans_division_focus:0 "Increased Fighter Production"
+  air_war_plans_division_focus:0 "증가된 전투기 생산량"
 
-  US_department_agriculture_idea:0 "Department of Agriculture I"
-  US_department_agriculture_idea_1:0 "Department of Agriculture II"
-  US_department_agriculture_idea_2:0 "Department of Agriculture III"
+  US_department_agriculture_idea:0 "농무부 I"
+  US_department_agriculture_idea_1:0 "농무부 II"
+  US_department_agriculture_idea_2:0 "농무부 III"
 
-  us_presidential_crisis_resolved:0 "Presidential Crisis Resolved"
+  us_presidential_crisis_resolved:0 "대통령 위기 해결됨"
 
-  US_oppressed_minorities:0 "New Segregation Laws"
+  US_oppressed_minorities:0 "새로운 분리법"
 
-  US_edu_reform:0 "Education Reform"
+  US_edu_reform:0 "교육 개혁"
 
-  US_gov_internvention:0 "Government Intervention"
+  US_gov_internvention:0 "정부 개입"
 
-  US_factory_strikes:0 "Factory Strikes"
+  US_factory_strikes:0 "공장 파업"
 
-  us_isolationism_policy:0 "Harding Doctrine"
+  us_isolationism_policy:0 "하딩 독트린"
 
-  us_bastion_democracy:0 "Bastion of Democracy"
-  us_idea_red_army:0 "Red Army"
-  US_conscription_idea:0 "Conscription Act"
-  US_idea_army_funds:0 "Army Funds"
-  us_new_deal_idea:0 "Towards Globalization"
-  US_wpa_idea:0 "Workers Association"
-  US_women_workers_idea:0 "Women Rights"
-  us_anti_imperialism_idea:0 "Anti-Imperialist Sentiment"
-  us_elite_troops:0 "Elite Soldier Training"
-  us_mass_conscription_idea:0 "Mass Conscription"
-  us_standardartization:0 "Standardartization of Equipment"
+  us_bastion_democracy:0 "민주주의의 보루"
+  us_idea_red_army:0 "붉은 군대"
+  US_conscription_idea:0 "징집법"
+  US_idea_army_funds:0 "군대 기금"
+  us_new_deal_idea:0 "세계화 지향"
+  US_wpa_idea:0 "노동자 협회"
+  US_women_workers_idea:0 "여성권"
+  us_anti_imperialism_idea:0 "반제국주의 정서"
+  us_elite_troops:0 "정예 병사 훈련"
+  us_mass_conscription_idea:0 "대규모 징집"
+  us_standardartization:0 "장비 표준화"
 
-  US_unemployment_rate:0 "High Unemployment Rate"
+  US_unemployment_rate:0 "높은 실업률"
 
-  recognized_bav_good:0 "Bavarian Recognition"
-  recognized_bav_bad:0 "Bavarian Recognition"
-  recognized_ger_good:0 "Prussian Recognition"
-  recognized_ger_bad:0 "Prussian Recognition"
+  recognized_bav_good:0 "바이에른 인식"
+  recognized_bav_bad:0 "바이에른 인식"
+  recognized_ger_good:0 "프로이센 인식"
+  recognized_ger_bad:0 "프로이센 인식"
