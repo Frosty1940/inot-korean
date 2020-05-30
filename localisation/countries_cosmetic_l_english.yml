@@ -293,4 +293,23 @@
  SWE_SCA_fascism:0 "신 스칸디나비아 제국"
  SWE_SCA_fascism_DEF:0 "신 스칸디나비아 제국"
 
+ SPB_fascism:0 "스페인 제국"
+ SPB_fascism_DEF:0 "스페인 제국"
+ SPB_democratic:0 "공화파 스페인"
+ SPB_democratic_DEF:0 "공화파 스페인"
+ SPB_neutrality:0 "스페인 왕국"
+ SPB_neutrality_DEF:0 "스페인 왕국"
+ SPB_communism:0 "혁명 스페인"
+ SPB_communism_DEF:0 "혁명 스페인"
+ SPB_socialist:0 "공화파 스페인"
+ SPB_socialist_DEF:0 "공화파 스페인"
+ SPB_conservatives:0 "스페인 공화국"
+ SPB_conservatives_DEF:0 "스페인 공화국"
+ SPB_fascism_ADJ:0 "스페인"
+ SPB_democratic_ADJ:0 "스페인"
+ SPB_neutrality_ADJ:0 "스페인"
+ SPB_communism_ADJ:0 "스페인"
+ SPB_socialist_ADJ:0 "스페인"
+ SPB_conservatives_ADJ:0 "스페인"
+
 

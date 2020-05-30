@@ -75,7 +75,7 @@
  ITA_fascism_party:0 "국가 파시스트당"
  ITA_neutrality_party:0 "군주주의 국민당"
  JAP_communism_party:0 "일본 공산당"
- JAP_democratic_party:0 "입헌민생당"
+ JAP_democratic_party:0 "입헌민정당"
  JAP_fascism_party:0 "대정익찬회"
 
  USA_communism_party:0 "미국 공산당"
@@ -135,8 +135,35 @@
  SPR_socialist_party:0 "PSOE"
  SPR_communism_party:0 "PCE"
  SPR_communism_party_long:0 "스페인 공산당"
- SPR_neutrality_party:0 "RE"
- SPR_neutrality_party_long:0 "스페인 개혁당"
+ SPR_neutrality_party:0 "군사 정부"  #RE
+ SPR_neutrality_party_long:0 "군사 정부" #Renovación Española
+ 
+ SPA_fascism_party_long:0 "스페인 국민당"
+ SPA_fascism_party:0 "PNE"
+ SPA_democratic_party:0 "IR"
+ SPA_democratic_party_long:0 "공화좌파"
+ SPA_conservatives_party_long:0 "스페인 자치 우익 연합"
+ SPA_conservatives_party:0 "CEDA"
+ SPA_socialist_party_long:0 "스페인 사회노동자당"
+ SPA_socialist_party:0 "PSOE "
+ SPA_communism_party:0 "PCE"
+ SPA_communism_party_long:0 "스페인 공산당"
+ SPA_neutrality_party:0 "군사 정부"  #RE
+ SPA_neutrality_party_long:0 "군사 정부" #Renovación Española
+
+ SPC_fascism_party_long:0 "스페인 국민당"
+ SPC_fascism_party:0 "PNE"
+ SPC_democratic_party:0 "IR"
+ SPC_democratic_party_long:0 "공화좌파"
+ SPC_conservatives_party_long:0 "스페인 자치 우익 연합"
+ SPC_conservatives_party:0 "CEDA"
+ SPC_socialist_party_long:0 "스페인 사회노동자당"
+ SPC_socialist_party:0 "PSOE "
+ SPC_communism_party:0 "PCE"
+ SPC_communism_party_long:0 "스페인 공산당"
+ SPC_neutrality_party:0 "군사 정부"  #RE
+ SPC_neutrality_party_long:0 "군사 정부" #Renovación Española
+
  POR_neutrality_party:0 "에스타도 노보"
  POR_communism_party:0 "PCP"
  POR_communism_party_long:0 "포르투갈 공산당"
