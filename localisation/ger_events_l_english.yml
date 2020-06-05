@@ -209,6 +209,11 @@ GER_expand_wall:0 "요새를 업그레이드하는 새로운 디시전을 사용
   holland.1005.a:0 "수락"
   holland.1005.b:0 "거부"
 
+  holland.1006.t:0 "파리의 이양"
+  holland.1006.d:0 "독일군과 함께 우리 군대가 파리에 도달했습니다. 당연히 해야 할 일은 독일군에게 통제권을 주는 것입니다."
+  holland.1006.a:0 "이양하라."
+  holland.1006.b:0 "가지고 있는다."
+
 
   #New events
   prussia_homeland.1.t:0 "한스 폰 젝트의 서거!"
