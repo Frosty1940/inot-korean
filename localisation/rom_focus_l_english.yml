@@ -239,15 +239,15 @@ romania_homeland.6.a:0 "걱정되는군..."
 romania_homeland.6.b:0 "걱정되는군..."
 
 romania_homeland.7.t:0 "루마니아 자치권을 받아들인 러시아" #Tied to romania_homeland.5
-romania_homeland.7.d:0 "Earlier today, the Russian Ambassador  met with His Majesty King Carol and Prime Minister Tătărescu and informed them that the Russian National Security Council had agreed to their request for the removal of Russian troops from sovereign Romanian lands."
-romania_homeland.7.a:0 "Freedom!"
+romania_homeland.7.d:0 "러시아 대사는 오늘 오전 카롤 국왕과 터터레스쿠 총리를 만나 러시아 국가안전보장회의(NSC)가 루마니아 영토에서 러시아군을 철수시켜 달라는 요청에 동의했다고 통보했습니다."
+romania_homeland.7.a:0 "자유다!"
 
 romania_homeland.8.t:0 "러시아가 루마니아 자치권 수용을 거부하다"
-romania_homeland.8.d:0 "Earlier today, the Russian Ambassador  met with His Majesty King Carol and Prime Minister Tătărescu and informed them that the Russian National Security Council had refused to their request for the removal of Russian troops from sovereign Romanian lands outright, and strongly urge them against attempting to achieve any such outcome through any other means."
+romania_homeland.8.d:0 "러시아 대사는 오늘 오전 카롤 국왕과 터터레스쿠 총리를 만나 러시아 국가안전보장회의(NSC)가 루마니아 영토에서 러시아군을 철수시켜 달라는 요청을 전면 거부했다고 통보했으며, 어떤 식으로든, 어떤 수단으로든 그러한 결과를 거두려 하지 말 것을 강력히 촉구했습니다."
 romania_homeland.8.a:0 "나쁜 소식이다..."
 
-romania_homeland.9.t:0 "Romania pushes for Bessarabia"
-romania_homeland.9.d:0 "The region of Bessarabia is home to many Romanians. Over the years Romania has pushed its claims over the lands to the West of Odessa. \nRomanians have showed their loyalty to Russia, perhaps it's time they get their lands back..."
+romania_homeland.9.t:0 "루마니아가 베사라비아를 계속 요구하다"
+romania_homeland.9.d:0 "베사라비아 지역은 많은 루마니아인들의 고향입니다. 지난 몇 년 동안 루마니아는 이 땅에 대한 자신들의 권리를 오데사 서부로 밀어붙였습니다.\n루마니아인들은 러시아에 대한 충성심을 보여주었습니다. 이제 땅을 되돌려 줄 때가 된 것 같습니다."
 romania_homeland.9.a:0 "요구를 받아들여라."
 romania_homeland.9.b:0 "안 돼!"
 
@@ -256,7 +256,7 @@ romania_homeland.10.d:0 ""
 romania_homeland.10.a:0 "나쁜 소식이다..."
 
 romania_homeland.11.t:0 "국왕 카롤 2세의 퇴위"
-romania_homeland.11.d:0 "After days of debate and protests on the streets of Bucharest, H.M. King Carol II has abdicated and thus a Republic of Romania has been proclaimed.\n\nThe Royal Family has escaped arrest and found asylum somewhere in the Western Europe. It is estimated that Carol II himself has taken most of his wealth thus leaving Romania in a minor economic depression.\n\nA new democratic Romania has emerged after years of monarchy, only time will tell whether this change was necessary..."
+romania_homeland.11.d:0 "며칠 동안 부쿠레슈티 거리에서 논쟁과 시위가 있은 후, 국왕 카롤 2세가 퇴위함에 따라 루마니아 공화국이 선포되었습니다.\n왕실은 체포를 피해 서유럽 어딘가로 망명한 것으로 밝혀졌습니다. 카롤 2세가 재산 대부분을 가져갔기 때문에 루마니아는 사소한 경제 불황에 빠져들게 된 것으로 추정됩니다.\n\n새로운 민주주의 루마니아는 수년간의 군주제 이후에 등장했습니다. 오직 시간만이 이 변화가 필요한지를 말해줄 것입니다."
 romania_homeland.11.a:0 "알았다."
 romania_homeland.11.b:0 "알았다."
 
@@ -288,10 +288,10 @@ faith_in_the_west:0 "서방에 대한 믿음"
 transfered_transylvania:0 "트란실바니아의 양도"
 
 #####Tooltips#####
-ROM_invitations_tt:0 "Depending on the §YNational Focuses§! completion, §YTurkey§!, §YSerbia§! and, or §YGreece§! will receive invitations to our faction.\n"
-ROM_fortifications_tt:0 "A §YFort Complex§! will be constructed around the country.\n"
-ROM_prepare_coup_warning_tt:0 "§RIf not timed properly, this might lead to a war with Russia!§!\n\n"
-ROM_trans_balkan_tt:0 "Depending on the size of our §YFaction§!, various §YInfrastructure§! projects will be construct around the §YBalkan§! region.\n"
+ROM_invitations_tt:0 "§Y국가 중점§! 달성에 따라 §Y터키§!, §Y세르비아§!, §Y그리스§!는 우리 세력에 초청을 받게 됩니다.\n"
+ROM_fortifications_tt:0 "전국에 §Y요새 단지§!가 건설될 것입니다.\n"
+ROM_prepare_coup_warning_tt:0 "§R시간을 제대로 맞추지 못하면 러시아와의 전쟁으로 이어질 수도 있습니다!§!\n\n"
+ROM_trans_balkan_tt:0 "우리 §Y세력§!의 규모에 따라 §Y발칸§! 지역을 중심으로 다양한 §Y기반시설§! 계획이 건설될 것입니다.\n"
 
 #####Factions#####
 ROM_romanian_faction_league:0 "제3 발칸 동맹"

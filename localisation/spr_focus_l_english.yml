@@ -244,7 +244,7 @@
  SPR_pro_allies_agenda_desc:0 "While deciding on our political agenda, we should consider joining the Allies. As a democracy, we must stay together and fight totalitarism by providing mutual security."
  SPR_stand_alone_allies:0 "우리만의 동맹"
  SPR_stand_alone_allies_desc:0 "The world tension is rising, perhaps it would be too risky to join the Allies faction now as we are still recovering from the civil war and wish to avoid near future conflicts."
- SPR_placeholder8:0 "반국가주의 연합"
+ SPR_placeholder8:0 "반국민주의 연합"
  SPR_placeholder8_desc:0 "Nationalist countries of the world must be taken down. Those countries wage wars and disturb world peace. It is important we prevent their actions before it's too late."
  SPR_placeholder9:0 "마르크스주의에 대항하는 방벽"
  SPR_placeholder9_desc:0 "Marxist nations wish to spread world revolution by force and mass terror. We must stop these nations before they reach us and before it's too late..."
@@ -307,7 +307,7 @@
  
  ##Opinion Modifiers
  sp_crusade_against_communism:0 "마르크스주의에 대항하는 십자군"
- sp_crusade_against_nationalism:0 "국가주의에 대항하는 십자군"
+ sp_crusade_against_nationalism:0 "국민주의에 대항하는 십자군"
  
  ##Ideas
  sp_neutrality_idea:0 "스페인 중립"
@@ -385,7 +385,7 @@
  spain.26.t:0 "스페인 내전!"
  spain.26.a:0 "왕당파 스페인을 지지하라."
  spain.26.b:0 "우파 연합을 지지하라."
- spain.26.c:0 "국가주의 스페인을 지지하라."
+ spain.26.c:0 "국민파 스페인을 지지하라."
  
  spain.28.t:0 "Spain requests Aid!"
  spain.28.d:0 "A civil war is being fought on the Iberian Peninsula. The government of Pro-Monarchist the Spanish State have approached us and requested military aid.\n\nOn one side we cannot risk being involved in this conflict, on the other side we can support a pro-monarchist Iberia which would benefit our Russian Sphere in the future."

@@ -18,7 +18,7 @@
   general_staff:0 "중앙집중 지휘"
   GER_air_innovations_2_idea:0 "독일 공군 개혁"
   GER_revenge:0 "보복주의 선전"
-  GER_influence_us:0 "외국 국가주의 영향"
+  GER_influence_us:0 "외국 국민주의 영향"
   GER_rep:0 "공화국"
   GER_bastion_demo:0 "민주주의의 보루"
   GER_german_legacy:0 "독일 유산"
@@ -49,6 +49,6 @@
   ideology_boosting_conservatives:0 "보수주의 인기도 증가"
   ideology_boosting_socialist:0 "사회주의 인기도 증가"
   ideology_boosting_democratic:0 "자유주의 인기도 증가"
-  ideology_boosting_fascism:0 "국가주의 인기도 증가"
+  ideology_boosting_fascism:0 "국민주의 인기도 증가"
   ideology_boosting_communism:0 "공산주의 인기도 증가"
  

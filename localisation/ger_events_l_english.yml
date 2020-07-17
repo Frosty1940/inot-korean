@@ -237,7 +237,7 @@ GER_expand_wall:0 "요새를 업그레이드하는 새로운 디시전을 사용
   prussia_homeland.4.a:0 "자유주의자들!"
   prussia_homeland.4.b:0 "보수주의자들!"
   prussia_homeland.4.c:0 "카이저를 다시 모셔와라!"
-  prussia_homeland.4.e:0 "국가주의자들!"
+  prussia_homeland.4.e:0 "국민주의자들!"
 
 #Decisions
 GER_generals_reintegrations_category:0 "군 지휘관 재임명"
