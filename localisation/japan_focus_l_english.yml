@@ -1,4 +1,7 @@
 ﻿l_english:
+ #Faction 
+ Jap_prosperity_sphere_faction:0 "대동아공영권"
+ 
  JAP_rising_sun:0 "욱일 제국"
  JAP_rising_sun_desc:0 "With the occupation of Manchuria and Korea, Japan has shown its might and shown the arrival of a new Great Empire in the East, a Rising Sun that is not to be meddled with."
  JAP_expansionism:0 "팽창주의 독트린"
@@ -202,11 +205,20 @@
  JAP_new_project:0 "새로운 민간산업"
  JAP_new_project_desc:0 "With new industrial projects we can help the civilian population improve their standard of living."
 
+ JAP_democratic_popularity:0 "민주화 운동"
+ JAP_democratic_outburst:0 "민주화 시위"
+ JAP_army_planning:0 "군사 계획"
+ JAP_student_idea:0 "새 교육 계획"
+ JAP_industrial_powerhouse:0 "일본 대국"
+ JAP_facist_unrest:0 "천황의 공모자"
+ JAP_loyal_army:0 "충성스러운 군대"
+ JAP_slaves:0 "식민지 노동력"
+ JAP_fighers_for_emporer:0 "징병 선전"
+ JAP_resource:0 "확장된 자원 추출"
+ JAP_slaves1:0 "확대된 식민지 노동 계획"
+ JAP_silencing:0 "숙청된 반대파"
+ JAP_influence_us:0 "일본 영향력"
+ JAP_jungle_combat:0 "강화된 정글 훈련"
 
-
- 
-
-
-    
 
 

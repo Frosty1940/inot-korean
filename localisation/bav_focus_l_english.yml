@@ -182,6 +182,8 @@
  BAV_power_debate_desc:0 "새로 형성된 우리의 국가는 매우 취약합니다. 우리는 우리의 지도자에게 권한을 부여하고 우리의 헌법을 개정해야 합니다."
  BAV_seek_reunification:0 "재통일 추구"
  BAV_seek_reunification_desc:0 "통일은 필수적입니다. 독일은 붉은 깃발 아래, 붉은 독일 아래 재결합해야 합니다."
+ BAV_anti_air:0 "대공방어 강화"
+ BAV_anti_air_desc:0 "오늘날 세계에서는 공군이 전장을 지배하고 있습니다. 연합국과 러시아에 대한 공군력의 약점을 감추기 위해 우리는 독일 전역에 대한 안보를 제공하기 위해 방공망을 증강해야 합니다."
  
  ##Decisions
  BAV_imminent_civil_war:0 "임박한 내전"

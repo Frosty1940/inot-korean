@@ -63,13 +63,26 @@
  RUS_vladimir_nabokov:0 "블라디미르 나보코프"
  RUS_alexander_guchkov:0 "알렉산드르 구치코프"
  RUS_alexander_kolchak:0 "알렉산드르 콜차크"
- RUS_lavr_kornilov:0 "라브르 코닐로프"
+ RUS_lavr_kornilov:0 "라브르 코르닐로프"
  RUS_anton_denikin:0 "안톤 데니킨"
  RUS_paul_von_rennenkampf:0 "파울 폰 레넨캄프"
  RUS_pyotr_wrangel:0 "표트르 브란겔"
  alexander_kolchak:0 "알렉산드르 콜차크"
  RUS_pavel_argeyev:0 "파벨 아르게예프"
  RUS_boris_savinkov:0 "보리스 사빈코프"
+ RUS_konovalov:0 "알렉산데르 코노발로프"
+ RUS_yusupov:0 "펠릭스 유수포프"
+ RUS_nabokov_jr_idea:0 "블라디미르 나보코프 주니어"
+ RUS_kornilov_idea:0 "라르브 코르닐로프"
+ RUS_krasnov:0 "표트르 크라스노프"
+ RUS_konev_idea:0 "이반 코네프"
+ RUS_isakov_idea:0 "이반 이사코프"
+ RUS_vasilevsky_idea:0 "알렉산데르 바실렙스키"
+ RUS_zhukov_idea:0 "게오르기 주코프"
+ RUS_rokossovsky_idea:0 "콘스탄틴 로코솝스키"
+ RUS_monarstyrev_idea:0 "네스토르 모나스티레프"
+ RUS_altfater_idea:0 "바실리 알트파터"
+ RUS_shaposhnikov_idea:0 "보리스 샤포슈니코프"
  
  
  #### New Additions####
@@ -150,6 +163,6 @@
 
  #Decisions
  RUS_army_actions:0 "군사적 행동"
- RUS_no_step_back_decision:0 "후퇴 절대 금지 명령!"
+ RUS_no_step_back_decision:0 "국가총동원령"
  RUS_lenin_from_exile:0 "망명지에서 레닌을 데려오기" 
  RUS_lenin_from_exile_desc:0 "진정한 혁명을 이루기 위해서는 위대한 공산주의 철학자 블라디미르 일리치 레닌을 망명에서 되찾아야 합니다."
