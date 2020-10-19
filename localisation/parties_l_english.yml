@@ -1,4 +1,5 @@
-﻿l_english:
+﻿
+l_english:
  communism:0 "스파르타쿠스주의"
  communism_noun:0 "스파르타쿠스주의"
  communism_subtype_desc:0 "경제와 역사의 관점을 폭넓게 아우르며,  스파르타쿠스주의적 정치는 카를 마르크스의 이론을 정치적 실천으로 옮길 방법을 모색하고자 했습니다. 계급 투쟁과 생산 수단의 공유에 기반한 사회로의 이행이 필요함을 강조하는 것이 이 이념의 특징과도 같습니다."
@@ -76,7 +77,10 @@
  ITA_neutrality_party:0 "군주주의 국민당"
  JAP_communism_party:0 "일본 공산당"
  JAP_democratic_party:0 "입헌민정당"
- JAP_fascism_party:0 "대정익찬회"
+ JAP_conservatives_party:0 "입헌정우회"
+ JAP_socialist_party:0 "사회대중당"
+ JAP_neutrality_party:0 "황도파"
+ JAP_fascism_party:0 "반동 군국주의자"
 
  USA_communism_party:0 "미국 공산당"
  USA_democratic_party:0 "민주당"
@@ -363,12 +367,14 @@
  BEL_communism_party:0 "KPB"
  BEL_communism_party_long:0 "벨기에 공산당"
  BEL_socialist_party:0 "벨기에 노동당"
+ BEL_socialist_party_long:0 "벨기에 노동당"
  BEL_democratic_party:0 "자유당"
  BEL_conservatives_party:0 "가톨릭당"
  BEL_conservatives_party_long:0 "가톨릭당"
- BEL_neutrality_party:0 "왕당파"
- BEL_fascism_party:0 "VLB"
- BEL_fascism_party_long:0 "플람스 국가 연합"
+ BEL_neutrality_party:0 "플란데런 국민연합"
+ BEL_neutrality_party_long:0 "플란데런 국민연합"
+ BEL_fascism_party:0 "렉시스트당"
+ BEL_fascism_party_long:0 "렉시스트당"
 
  SWI_communism_party:0 "KPS"
  SWI_communism_party_long:0 "스위스 공산당"
@@ -555,9 +561,13 @@
  CAM_communism_party:0 "캄푸치아 공산당" # aka Khmer Communist Party or a different party Krom Pracheachon aka Krom
  CAM_neutrality_party:0 "평민공동사회" # or just Sangkum 1955, democratic but right leaning and anti communist
  INS_fascism_party:0 "신질서" #inspired by right wingers from 1960s
- INS_democratic_party:0 "PNI" #Indonesian National Party founded by Sukarno
- INS_communism_party:0 "PKI" #Partai Komunis Indonesia
- INS_neutrality_party:0 "민주당" #made up, in reality this guy was a member of PNI 
+ INS_socialist_party:0 "인도네시아 국민당" #Indonesian National Party founded by Sukarno
+ INS_socialist_party_long:0 "인도네시아 국민당" #Indonesian National Party founded by Sukarno
+ INS_communism_party:0 "인도네시아 공산당" #Partai Komunis Indonesia
+ INS_neutrality_party:0 "전통적인 통치자들" #Dontrlyknowwhattoputhereijustputmaybethedifferentsultanates
+ INS_democratic_party:0 "인도네시아 국민당" #SamePartyreallyjustmemberswhoaremoreliberalandanti-socialist
+ INS_conservatives_party:0 "국민협의회"
+ INS_conservatives_party_long:0 "국민협의회"
  MAL_fascism_party:0 "범오세아니아 연합주의자"
  MAL_democratic_party:0 "통일말레이국민조직" #or UMNO or PEKEMBAR
  MAL_communism_party:0 "말레이 공산당" #or MCP

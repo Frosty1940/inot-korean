@@ -361,6 +361,28 @@
  russia_states.8.d:0 "우리 군대는 페르시아만으로 진격하고 있습니다. 우리는 방금 이란 정부로부터 편지를 받았는데, 그들은 우리에게 평화를 제의했습니다.\n\n지금까지 이 전쟁은 비용이 많이 들었습니다. 평화를 맺음으로써, 우리는 다른 것에 집중할 수 있을 것입니다."
  russia_states.8.a:0 "평화"
  russia_states.8.b:0 "절대 안 돼!"
+
+ russia_states.10.t:0 "동독의 운명"
+ russia_states.10.d:0 "동독은 러시아 통제하에 있습니다, 어떻게 진행해야 합니까?"
+ russia_states.10.a:0 "우호적인 동독국을 수립하라."
+ russia_states.10.b:0 "프로이센 땅에 폴란드를 수립하라."
+ russia_states.10.c:0 "동독을 점령하라."
+ 
+ russia_states.12.t:0 "루마니아의 운명"
+ russia_states.12.d:0 "루마니아는 러시아 통제하에 있습니다, 어떻게 진행해야 합니까?"
+ russia_states.12.a:0 "우호적인 루마니아를 복원하라."
+ russia_states.12.b:0 "루마니아를 점령하라."
+ 
+ russia_states.11.t:0 "대폴란드의 운명"
+ russia_states.11.d:0 "폴란드가 이제 서부에 수립되었습니다, 폴란드 동부지역에 대해서는 어떻게 진행해야 합니까?"
+ russia_states.11.a:0 "폴란드를 해방하라."
+ russia_states.11.b:0 "바르샤바는 러시아 통제하에 남는다."
+ 
+ russia_states.13.t:0 "터키의 운명"
+ russia_states.13.d:0 "터키는 러시아 통제하에 있습니다, 어떻게 진행해야 합니까?"
+ russia_states.13.a:0 "우호적인 터키를 복원하라."
+ russia_states.13.b:0 "해협을 점령하라!"
+ russia_states.13.c:0 "터키를 점령하라."
  
  #Homeland events
  russia_homeland.1.t:0 "새 두마"

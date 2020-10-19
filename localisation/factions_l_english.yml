@@ -7,7 +7,7 @@
  french_alliance:0 "프랑스 동맹"
  the_berlin_moscow_axis:0 "베를린-모스크바 추축국"
  domination_francaise:0 "프랑스 지배권"
- french_entente_alliance:0 "프랑스-협상국 동맹"
+ french_entente_alliance:0 "협상국"
  daitoa_kyoeiken:0 "대동아공영권"
  italy_empire_faction:0 "신로마제국"
  chinese_united_front:0 "국공합작"
@@ -43,4 +43,7 @@
  uk_imperial_confederation_faction:0 "제국 연합"
  asian_league:0 "중국 통일전선"
  balkan_protection_league:0 "발칸 보호 동맹"
+ second_internationale_faction:0 "제2인터내셔널"
+ rus_proletariat_alliance:0 "프롤레타리아 동맹"
+ fra_continental_system_faction:0 "신 대륙봉쇄령"
 

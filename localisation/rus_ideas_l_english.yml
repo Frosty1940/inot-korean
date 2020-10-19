@@ -83,6 +83,10 @@
  RUS_monarstyrev_idea:0 "네스토르 모나스티레프"
  RUS_altfater_idea:0 "바실리 알트파터"
  RUS_shaposhnikov_idea:0 "보리스 샤포슈니코프"
+ RUS_kerensky:0 "알렉산드르 케렌스키"
+ RUS_tkachov:0 "뱌체슬라프 트카초프"
+ RUS_baranov:0 "표트르 바라노프"
+ RUS_smirnov:0 "일리야 스미르노프"
  
  
  #### New Additions####
@@ -166,3 +170,12 @@
  RUS_no_step_back_decision:0 "국가총동원령"
  RUS_lenin_from_exile:0 "망명지에서 레닌을 데려오기" 
  RUS_lenin_from_exile_desc:0 "진정한 혁명을 이루기 위해서는 위대한 공산주의 철학자 블라디미르 일리치 레닌을 망명에서 되찾아야 합니다."
+
+ RUS_integrate_territories_decisions:0 "점령지 관리"
+ RUS_integrate_territories_decisions_desc:0 "러시아의 점령하에 영토가 있습니다, 어떻게 해야 합니까?"
+ RUS_fate_east_germany:0 "동독의 운명"
+ RUS_fate_romania:0 "루마니아의 운명"
+ RUS_fate_turkey:0 "터키의 운명"
+ RUS_fate_holland:0 "네덜란드 위성국화"
+ RUS_fate_belgium:0 "벨기에 위성국화"
+ RUS_fate_luxembourg:0 "룩셈부르크 위성국화"
