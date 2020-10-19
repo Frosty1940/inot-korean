@@ -1,4 +1,4 @@
-version="1.9.3.6"
+version="1.10.0"
 tags={
 	"Translation"
 }
@@ -8,5 +8,5 @@ dependencies={
 	"Korean Language (Europa)"
 }
 picture="thumbnail.png"
-supported_version="1.9.*"
+supported_version="1.10.*"
 remote_file_id="2044484235"
