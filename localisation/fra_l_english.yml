@@ -262,6 +262,7 @@ FR_retake_FTU:0 "옛 마그레브 식민지 해방"
 
  #French Traits
  INOT_descendant_of_napoleon:0 "나폴레옹 1세의 후손"
+ INOT_unpopular_pm:0 "인기 없는 수상"
 
  #some tooltips
  fra_indochina_wargoals_tt:0 "이 국가 중점은 프랑스가 이전의 아시아 식민지에 대항하여 전쟁을 벌일 수 있도록 해줄 것입니다.\n"
