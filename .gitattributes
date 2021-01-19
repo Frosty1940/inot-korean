@@ -1,3 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-*.mod linguist-vendored=false
+descriptor.mod linguist-vendored
