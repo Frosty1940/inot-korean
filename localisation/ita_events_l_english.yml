@@ -1,4 +1,4 @@
-﻿l_english: 
+﻿l_english:
  italy.1000.t:0 "공산주의자들이 권력을 굳히다"
  italy.1000.d:0 "The turmoil in Italy is finally over. As the dust settles, Communists consolidate power in Rome.\n Their control of Italy is no longer disputed. While recovering, Italy stands on crossroads; to expand its influence or to establish a more peaceful realpolitik policy.\nOnly time will tell where Italy is heading..."
  italy.1000.a:0 "알았다."
@@ -91,15 +91,12 @@
  italy.10007.d:0 "A new Italian Republic was formed.\nIt was annouced yesterday that the King of Italy abdicated in favour of the Republican state of Italy. Only time will tell whether this is beneficial for the Italian state."
  italy.10007.a:0 "흥미롭군."
  italy.10007.b:0 "흥미롭군."
-
- ####### Leverage & Related Events #######
-
  italy.252.t:0 "이탈리아가 알피니를 키우겠다고 제안하다"
  italy.252.d:0 "이탈리아 대사관이 우리에게 흥미로운 제안을 했다. 그들은 우리 군대를 위해 정예 알피니 2개 사단을 키우고, 장비하고, 훈련시킬 것이다. 이것은 우리의 국방비 지출에서 약간의 차이를 커버할 수 있지만, 그것을 받아들이는 것은 사용을 의존적으로 보이게 할 수 있다."
  italy.252.a:0 "물론, 그것은 우리의 방어에 도움이 될 것이다."
  italy.252.b:0 "우리는 빚을 지는 것을 용납할 수 없다."
  italy.3001.t:0 "연합국이 거부하다!"
- italy.3001.d:0 "최근 우리의 제안에 대해, 연합국은 매우 정중하게 "아니오"라고 써주었습니다."
+ italy.3001.d:0 "최근 우리의 제안에 대해, 연합국은 매우 정중하게 \"아니오\"라고 써주었습니다."
  italy.3001.a:0 "오, 알았다.."
  italy.3002.t:0 "연합국이 승락하다!"
  italy.3002.d:0 "연합국은 우리가 최근에 제안한 제안에 동의했고, 따라서 그들과 함께 우리의 영향력을 늘렸습니다!"
@@ -116,8 +113,6 @@
  italy.365.d:0 "이탈리아가 우리에게 아프리카의 뿔 지역을 이전하겠다고 제안했습니다. 비록 실용적이지는 않지만, 이탈리아가 불친절하게 변한다면 틀림없이 그 영토는 우리에게 불리하게 사용될 수 있을 것이고, 그 지역을 확보함으로써 우리는 어두운 대륙에 더욱 단단히 자리잡을 것입니다."
  italy.365.a:0 "물론이다."
  italy.365.b:0 "우리는 다시 한 번 이탈리아인의 빚에 남게 될 것이다."
-
- #Decisions
  ITA_integrate_territories_decisions:0 "점령지 관리"
  ITA_integrate_territories_decisions_desc:0 "이탈리아의 점령하에 영토가 있습니다, 어떻게 해야 합니까?"
  ITA_return_of_zagreb:0 "자그레브를 오스트리아로 반환"

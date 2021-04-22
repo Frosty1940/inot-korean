@@ -1,16 +1,14 @@
 ﻿l_english:
- #Events
  hung.1000.t:0 "선거"
  hung.1000.d:0 "혁명은 마르크스주의 정당과 사회주의 정당 모두 지지하고 있습니다. 그런데 지금 다시 나라가 안정되면서 양당이 다시 선두로 치고 올라왔습니다. 새로 설치된 의회는 이 상황에 대처하기 위해 긴급 선거를 실시해야 한다고 주장했습니다."
  hung.1000.a:0 "사회주의자들은 이 나라에 안정을 가져다 줄 것이다."
  hung.1000.b:0 "마르크스주의자들은 헝가리의 꿈을 이룰 것이다."
-
  hung.1001.t:0 "미클로시 호르티의 처형"
  hung.1001.d:0 "국민주의적인 해군 사령관, 미클로시 호르티는 우리가 보수정부를 타도한 이후 추종자들과 함께 숨어 있었습니다. 그는 내전을 일으키기 위해 충성을 다했던 옛 군대를 모을 계획이었던 것으로 보입니다. 다행히도 그는 아군에 의해 사전에 발견되었습니다. 벨러 쿤은 새 공화국을 위해서는 그를 살려 두는 것이 너무 위험하다고 결정했습니다. 그래서 그는 처형될 것입니다."
- hung.1001.a:0 "그 개자식을 교수형에 처해라." 
+ hung.1001.a:0 "그 개자식을 교수형에 처해라."
  hung.1002.t:0 "오토 폰 합스부르크 암살"
  hung.1002.d:0 "현재 오스트리아국은 신생 헝가리 공화국에 가장 큰 위협이 되고 있습니다. 그들의 나라는 잃어버린 땅을 되찾기를 열망하고 있고 헝가리는 그것의 일부입니다. 오스트리아를 상대로 더 나은 기회를 갖기 위해 우리는 그들이 가장 사랑하는 군주를 죽임으로써 그들의 나라를 불안정하게 해야 합니다. 새로 구성된 국가 보호국이 이번 암살을 실행할 예정입니다."
- hung.1002.a:0 "혁명을 위해!" 
+ hung.1002.a:0 "혁명을 위해!"
  hung.1003.t:0 "암살 전술?"
  hung.1003.d:0 "암살에 대한 우리의 준비는 거의 끝났습니다. 하지만 참모진들은 우리가 어떻게 실행해야 할지 확신하지 못하고 있습니다. 한 가지 계획은 성공할 가능성이 더 높지만, 대신 우리가 한 것임이 발각될 것입니다. 다른 하나는 기대치가 낮지만 우리는 전쟁을 더 쉽게 피할 수 있습니다."
  hung.1003.a:0 "오토 폰 합스부르크는 그냥 죽으면 된다."
@@ -77,129 +75,97 @@
  hung.1022.d:0 "헝가리 관료들은 트란실바니아 땅을 돌려달라는 정당치 못한 요구를 보내왔습니다. 헝가리군은 우리 국경에 결집하였습니다. 이 요구를 받아들여야 합니까, 거절해야 합니까?"
  hung.1022.a:0 "요구에 승복해라."
  hung.1022.b:0 "꺼져, 이 빨갱이 새끼들아!"
-
  hung.1023.t:0 "보이보디나를 요구하는 헝가리"
- hung.1023.d:0 "헝가리 공산주의 공화국이 우리에게 보이보디나 지역의 반환을 요구했습니다. 그들은 헝가리인들의 "안전"을 보장하고 헝가리 통일을 달성하기 위해 해당 지역의 완전한 통제권을 되찾길 원합니다. 그들의 요구를 거절한다면 전쟁이 터질 것입니다. 헝가리군은 대규모 동원을 마쳤고 최근 몇 년간 급속도로 확장해왔기 때문에 전쟁의 경우 전면전을 대비해야 합니다. 게다가 불가리아가 우리 배후를 노리며 참전할 것이라는 소문이 있습니다. 아마 다른 선택지가 있을 지도 모릅니다. 몇몇 사람들은 해당 지역을 완전히 비무장화하여 어떠한 군 병력도 해당 지역에 주둔할 수 없도록 한다는 조건으로 헝가리에 보이보디나를 넘겨야 한다고 제안합니다. 이를 통해 우리가 재무장할 시간을 벌고 어떠한 급습이라도 막을 수 있을지도 모릅니다."
+ hung.1023.d:0 "헝가리 공산주의 공화국이 우리에게 보이보디나 지역의 반환을 요구했습니다. 그들은 헝가리인들의 \"안전\"을 보장하고 헝가리 통일을 달성하기 위해 해당 지역의 완전한 통제권을 되찾길 원합니다. 그들의 요구를 거절한다면 전쟁이 터질 것입니다. 헝가리군은 대규모 동원을 마쳤고 최근 몇 년간 급속도로 확장해왔기 때문에 전쟁의 경우 전면전을 대비해야 합니다. 게다가 불가리아가 우리 배후를 노리며 참전할 것이라는 소문이 있습니다. 아마 다른 선택지가 있을 지도 모릅니다. 몇몇 사람들은 해당 지역을 완전히 비무장화하여 어떠한 군 병력도 해당 지역에 주둔할 수 없도록 한다는 조건으로 헝가리에 보이보디나를 넘겨야 한다고 제안합니다. 이를 통해 우리가 재무장할 시간을 벌고 어떠한 급습이라도 막을 수 있을지도 모릅니다."
  hung.1023.a:0 "우린 전쟁에 준비가 되지 않았다. 포기하자."
- hung.1023.b:0 "시간을 벌기 위해서... 보이보디나를 비무장화한다."
  hung.1023.b:0 "그럼 전쟁이다."
-
  hung.1024.t:0 "보이보디나 통제권을 이양한 세르비아"
  hung.1024.d:0 "세르비아 왕국은 우리의 요구를 받아들였습니다. 보이보디나의 경계 지역은 이제 우리의 완전한 통제 아래에 있습니다. 세르비아군과 행정부는 해당 지역에서 철수할 것입니다."
  hung.1024.a:0 "발칸의 평화를 지키기 위한 유일한 길이다."
-
  hung.1025.t:0 "헝가리의 비무장 보이보디나?"
  hung.1025.d:0 "베오그라드 정부는 보이보디나의 상황에 대한 협정을 제안했습니다. 그들은 우리가 해당 지역을 완전히 비무장화하는 것에 동의한다면 그곳을 이양하는 것을 받아들입니다. 일부 작전참모들이 협정을 반대하는 가운데, 정부는 일단 유혈사태를 방지하고자 하며 몇 달 안에 군부가 아무런 문제 없이 해당 지역을 접수할 것으로 예상됩니다."
  hung.1025.a:0 "그건 ... 받아들일 수 있다."
-
  hung.1028.t:0 "헝가리 내전 - 우리 통제 아래로 돌아온 부르겐란트"
  hung.1028.d:0 "헝가리 공산주의 공화국이 무너집니다. 호르티 휘하의 국민주의자들은 국가를 내전에 빠뜨린 쿠데타를 시작했습니다. 부르겐란트의 독일계 지역은 해당 지역의 치안 유지와 어떠한 분쟁이라도 방지하기 위해 우리 군대가 진주할 것을 요청했습니다. 우리 군대는 해방자로서 환영받았고 주요 동맹국들의 승인으로 우리는 국가를 재통합할 수 있었습니다."
  hung.1028.a:0 "마침내 통일되었다."
-
  hung.1029.t:0 "우리 요구를 거절한 세르비아"
  hung.1029.d:0 "세르비아가 헝가리를 통일하고자 하는 우리의 의지에 저항했습니다. 그들의 거만함은 그들이 우리를 다시 이기고 우리 민족을 다스릴 권한이 있다고 믿게 만들었습니다."
  hung.1029.a:0 "그들이 원하는 것이 전쟁이라면, 바로 여기 있다."
-
  hung.1030.t:0 "발칸 동맹 가입을 원하는 헝가리"
  hung.1030.d:0 "새로 수립된 헝가리 제2공화국이 우리에게 그들이 발칸 동맹에 가입하도록 함으로써 동맹을 공식화해 줄 것을 요청했습니다. The Hungarian Republic is not in a perfect state right now so to protects itself from other bigger aggressors they askes us for help."
  hung.1030.a:0 "우리는 발칸 동맹에 모든 나라를 환영한다."
-
  hung.1031.t:0 "Hungary seeks to join the Western Coalition"
  hung.1031.d:0 "The newly established second republic of Hungary have asked us to formalize a alliance by letting them join the Western Coalition. The Hungarian Republic is not in a perfect state right now so to protects itself from other bigger aggressors they askes us for help."
  hung.1031.a:0 "Every soul in Europe will be defended"
-
  hung.1032.t:0 "Hungary seeks to join the Eastern Coalition"
  hung.1032.d:0 "The newly established nationalistic state of Hungary have asked us to formalize a alliance by letting them join the Eastern Coalition. The Hungarian State is not in a perfect state right now so to protects itself from other bigger aggressors they askes us for help."
  hung.1032.a:0 "Join us Brothers!"
-
  hung.1033.t:0 "Hungary seeks to join the Berlin Pact"
  hung.1033.d:0 "The newly established nationalistic state of Hungary have asked us to formalize a alliance by letting them join the Berlin Pact. The Hungarian State is not in a perfect state right now so to protects itself from other bigger aggressors they askes us for help."
  hung.1033.a:0 "Sie sind uns willkommen!"
-
  hung.1034.t:0 "Hungary proposes to partition Romania"
  hung.1034.d:0 "Our new allied state in the Balkans suggested an coordinated invasion of Romanian and then to partition its lands. While Romania stands isolated right now we might have other plans with the Roman State."
  hung.1034.a:0 "An excellent idea send the ultimatum. "
  hung.1034.b:0 "They can do this themself"
-
  hung.1035.t:0 "Russia demands our subjugation"
  hung.1035.d:0 "The Tsardom of Russia has sent us an ultimatum. Either we accepet the control of Russias control in our country and abandon our Transylvanian lands to Hungary or we will face invasion from two sides."
  hung.1035.a:0 "We have no chance"
  hung.1035.b:0 "We will fight until the end"
-
  hung.1036.t:0 "Romania surrenders"
  hung.1036.d:0 "Romania has accepted all terms we gave them. We have met no resistance entering the country and the terms are being fullfilled right now. A suprise to be sure but a welcome one."
  hung.1036.a:0 "Another Victory for Russia"
-
  hung.1037.t:0 "Romania rejects the Ultimatum"
  hung.1037.d:0 "Romania has rejected our ultimatum and says if one more russian soldier would enter the land it would mean war."
  hung.1037.a:0 "Begin the Invasion"
-
  hung.1038.t:0 "Russia denies our partition"
  hung.1038.d:0 "The Russian state has rejected our proposal. It appears that they have no buisness anymore in Romania. Russian official Molotov said to our Presiden he should finish this conflict himself."
  hung.1038.a:0 "To war alone then"
-
  hung.1039.t:0 "헝가리가 카르파티아 루테니아 수복을 요청하다"
  hung.1039.d:0 "우리의 동맹인 헝가리는 갈리치아의 주들을 직접 통제할 것을 제안했습니다. 그들은 우리가 그들에게 통제권을 부여해야 하는 경험들을 통해 그곳의 반란군을 더 잘 처리할 수 있습니다."
  hung.1039.a:0 "그들에게 그걸 줘라."
  hung.1039.b:0 "이건 너무 멀리 나갔다."
-
  hung.1040.t:0 "러시아가 우리 제안을 받아들이다"
  hung.1040.d:0 "러시아는 우리의 조건을 받아들였고, 우리는 헝가리를 완전히 지배하고 있습니다."
  hung.1040.a:0 "헝가리는 유대 없이 확장한다."
-
  hung.1041.t:0 "러시아가 우리 제안을 거부하다"
  hung.1041.d:0 "러시아는 우리 나라가 너무 작아 그런 큰 일을 감당할 수 없다는 이유를 들며 크라쿠프를 통제한다는 우리의 조건을 거부했습니다."
  hung.1041.a:0 "시도해 볼 만한 가치가 있다."
-
  hung.1042.t:0 "헝가리가 오스트리아 침공을 제안하다"
  hung.1042.d:0 "헝가리 관료들이 오스트리아에 대한 협력적인 공격 계획을 제시하기 위해 베를린에 왔습니다. 헝가리는 그들이 되찾고 싶어하는 슬로베니아 지역에 관심을 가지고 있고 카이저는 이미 오스트리아의 질병을 없애고 싶다는 데 동의했습니다. 만약 그들이 그것을 잘 받아들이지 않는다면 우리는 먼저 최후 통첩을 보낼 것입니다. 그러면 우리는 그냥 침략할 것입니다."
  hung.1042.a:0 "독일은 통일되어야 한다."
-
  hung.1043.t:0 "베를린 조약이 우리의 해체를 요구하다"
  hung.1043.d:0 "독일 관료들은 우리에게 오스트리아국을 즉시 해체해야 한다는 최후통첩을 보냈습니다. 헝가리가 슬로베니아를 되찾는 동안 독일은 독일-오스트리아 땅을 점령할 것입니다. 어떻게 해야 합니까?"
  hung.1043.a:0 "항복해라. 우리는 기회가 없다."
  hung.1043.b:0 "오스트리아는 살아남아야 한다!"
-
  hung.1044.t:0 "오스트리아가 거부하다!"
  hung.1044.d:0 "오스트리아는 우리에게 오스트리아의 점령을 거부했습니다. 이것은 그때 한 가지만으로 이어질 것입니다."
  hung.1044.a:0 "전쟁은 이제 유일한 선택지이다."
- 
  hung.1045.t:0 "우리의 국왕 선택"
  hung.1045.d:0 "모든 군주국에는 왕이 필요합니다. 우리는 오토 폰 합스부르크에 의해 오스트리아인들에게 통치되는 오래된 방식을 선택할 수 있습니다. 하지만 우리는 새로운 방향을 선택할 수도 있습니다. 러시아인이나 독일인 국왕의 지배를 받을 수도 있습니다."
  hung.1045.a:0 "다시 오스트리아인들의 지배를 받는 것이 좋다."
  hung.1045.b:0 "아달베르트 폰 프로이센."
  hung.1045.c:0 "러시아의 파울 폰 렌넨캄프."
-
  hung.1046.t:0 "Giving Austria to Germany"
  hung.1046.d:0 "."
  hung.1046.a:0 "Make sure that the Hohenzollers never come back"
-
  hung.1080.t:0 "Hungary seeks to join the Comintern"
  hung.1080.d:0 "Having stabilized and strenghtened their country the People's Republic of Hungary seeks to officially ally with us. Hungary has already helped us in the Reunification War with dire needed arms and volunteers. While some politicians critize their rather nationalistic based war aims, the Government has decided that Hungarians Peoples Republic has every right to aim for unification just like we did. And so we shall help their goals and they shall help us."
  hung.1080.a:0 "Our comrades are welcome"
-
  hung.1081.t:0 "The Breakup of Romania"
- hung.1081.d:0 ""The Germans have contacted us. They suggest that we select Gheorghe Gheorghiu-Dej as the leader for the Socialist Republic of Romania."Kun looked at his closest friends in the room awaiting their responses.\n\nIstván Dobi was the first to respond."I would rather like someone who we can better control. Gheorghe is already well known in Romania and has his base of supporters."\n\nRákosi nodded and supported Dobi's assessment."I agree. If he is able to gain more popularity and support over the years he could potentially become a threat to our lands in Transylvania. We have already agreed that Romania shall never again threaten the borders of our nation again and we can not back down from that agreement already."\n\nKun excepted those reponses."Well I am unsure about him aswell and would rather have Ana Pauker but it is not up to us to decide who becomes leader of Romania and we can not risk our relationship with Germany over this matter."\n\nRákosi interrupted Kun."Incorrect my friend there are several things we can still decide. The Germans only specified that Gheorghiu-Dej should become leader of Romania but it was never stated that Romania shall not be divided."\n\nIstván quickly realized what Rákosi was proposing and continued his thoughts."You are suggesting that we also create puppet state of Moldovia?"\n\n"Yes! And with Ana Pauker as the leader. Of course we tell them it shall only be a "temporary situation" for the following years and that the two states will definetly unite again."\n\n"I pressume that shall not be the case, right?"\n\nRákosi put up a grim smile and continued."Correct! Over the years Gheorghiu-Dej and Pauker will have build up different regimes with their own ideologies and neither one of them will accept stepping down when the time comes for Romanian unification. This way we can easily make sure that Romania will never unite again, with the benefit of us barely intervening in the matter."\n\nKun felt uneasy hearing all of this."I am not sure if I can accept this... it is against the principles of internationalism and the Germans might..."\n\n"Kun you are a true Hungarian Revolutionary not a German one and you know this is necassary for Hungary, our nation."\n"Alright... if that is truly the best option." Kun sighed."
+ hung.1081.d:0 "\"The Germans have contacted us. They suggest that we select Gheorghe Gheorghiu-Dej as the leader for the Socialist Republic of Romania.\"Kun looked at his closest friends in the room awaiting their responses.\n\nIstván Dobi was the first to respond.\"I would rather like someone who we can better control. Gheorghe is already well known in Romania and has his base of supporters.\"\n\nRákosi nodded and supported Dobi's assessment.\"I agree. If he is able to gain more popularity and support over the years he could potentially become a threat to our lands in Transylvania. We have already agreed that Romania shall never again threaten the borders of our nation again and we can not back down from that agreement already.\"\n\nKun excepted those reponses.\"Well I am unsure about him aswell and would rather have Ana Pauker but it is not up to us to decide who becomes leader of Romania and we can not risk our relationship with Germany over this matter.\"\n\nRákosi interrupted Kun.\"Incorrect my friend there are several things we can still decide. The Germans only specified that Gheorghiu-Dej should become leader of Romania but it was never stated that Romania shall not be divided.\"\n\nIstván quickly realized what Rákosi was proposing and continued his thoughts.\"You are suggesting that we also create puppet state of Moldovia?\"\n\n\"Yes! And with Ana Pauker as the leader. Of course we tell them it shall only be a \"temporary situation\" for the following years and that the two states will definetly unite again.\"\n\n\"I pressume that shall not be the case, right?\"\n\nRákosi put up a grim smile and continued.\"Correct! Over the years Gheorghiu-Dej and Pauker will have build up different regimes with their own ideologies and neither one of them will accept stepping down when the time comes for Romanian unification. This way we can easily make sure that Romania will never unite again, with the benefit of us barely intervening in the matter.\"\n\nKun felt uneasy hearing all of this.\"I am not sure if I can accept this... it is against the principles of internationalism and the Germans might...\"\n\n\"Kun you are a true Hungarian Revolutionary not a German one and you know this is necassary for Hungary, our nation.\"\n\"Alright... if that is truly the best option.\" Kun sighed."
  hung.1081.a:0 "Is it not wonderful to paint to your own liking?"
- 
  hung.1082.t:0 "War over Transylvania"
  hung.1082.d:0 "After diplomatic negotiations between Romania and Hungary over Transylvania had failed it was clear that war was inevitable. The Hungarian Peoples Republic has declared war on Romania claiming that they waging a war of liberation for the suppressed Hungarians and Transylvanians inside Romania's borders.\nThe international community however sees this as an another step of Hungarian warmongering aims to restore their old borders and, with the execption of Hungarians closest allies, fully condemn the declaration of war.\nFor now it is unclear if the Great Powers or other neighbours of Hungary will intervene in this conflict."
  hung.1082.a:0 "Their hatred for each other will never end"
-
  hung.1083.t:0 "Escalation between Hungary and Serbia"
  hung.1083.d:0 "After diplomatic negotiations between the Serbian Government and the Hungarian Republic had failed over the Vojovodina issue failed some hoped that the situation would nevertheless escalate. These hopes have now been crushed. Hungary and Serbia are now at war and the war aims of Hungary have greatly increased. The Hungarian Peoples Republic now also declares to free the Croatians, Bosnians and Macedonians from Serbian dictatorship.\nFor now it is unclear if the Great Powers or other neighbours of Hungary will intervene in this conflict."
  hung.1083.a:0 "The Final war between those two nations?"
-
- #EventChain
  hung.1047.t:0 "A Night in Budapest - Part 1"
- hung.1047.d:0 ""Italian, from Sicily to be exact. I hope it suits your taste."\n\nKun watched as Rakosi filled up the glass. Mátyás Rákosi, the People's Commissar for Trade but rather known as the Commander of the Red Guard, had invited Kun to a dinner. Kun was aware that this was obviously a move to gain more influence rather then just an invitation to a friendly dinner. But Béla had recently no time for relaxation so he glady accepted the invitation. Furthermore a good opportunity to get information about what is going on in the Red Guard.\n\n"Thank You and how has work been?"\n\n"There is never a lack of it, that I can definetly tell you. Two days ago my men caught a Russian Spy who reaveled that they were trying to find people suitable for a New Government under Russian Control. Now guess with who they made contact with?\n\n"Who?"\n\n"Károlyi, the old bastard."\n\n"You are kidding right?"\n\n"He was always a rat, first he failed to secure our borders at the end of the war and even now he licks Russian boots."\n\n"I did not want him to be prosecuted during the purge, he was still our first president and had become a socialist who supported the revolution. The impact of his voice is minimal but his death could be bad puplicity".\nKun takes a sip from the Wine Glass and continues. "Well, I guess you can give out the arrest order and then we put him trial."\n\n"Ah that is already handled."\n\n"Already handled?""
+ hung.1047.d:0 "\"Italian, from Sicily to be exact. I hope it suits your taste.\"\n\nKun watched as Rakosi filled up the glass. Mátyás Rákosi, the People's Commissar for Trade but rather known as the Commander of the Red Guard, had invited Kun to a dinner. Kun was aware that this was obviously a move to gain more influence rather then just an invitation to a friendly dinner. But Béla had recently no time for relaxation so he glady accepted the invitation. Furthermore a good opportunity to get information about what is going on in the Red Guard.\n\n\"Thank You and how has work been?\"\n\n\"There is never a lack of it, that I can definetly tell you. Two days ago my men caught a Russian Spy who reaveled that they were trying to find people suitable for a New Government under Russian Control. Now guess with who they made contact with?\n\n\"Who?\"\n\n\"Károlyi, the old bastard.\"\n\n\"You are kidding right?\"\n\n\"He was always a rat, first he failed to secure our borders at the end of the war and even now he licks Russian boots.\"\n\n\"I did not want him to be prosecuted during the purge, he was still our first president and had become a socialist who supported the revolution. The impact of his voice is minimal but his death could be bad puplicity\".\nKun takes a sip from the Wine Glass and continues. \"Well, I guess you can give out the arrest order and then we put him trial.\"\n\n\"Ah that is already handled.\"\n\n\"Already handled?\""
  hung.1047.a:0 "The Dinner continues"
-
  hung.1048.t:0 "A Night in Budapest - Part 2"
- hung.1048.d:0 ""Already handled?"\n\n"Well yes, after receiving that information I immediatly ordered the Red Guard to remove him silently."\n\nKun's mouth dropped open slightly."Are you telling me you killed him without informing me or the Governing Council?!"\n\n"The faster, the better. Why? Is that a problem?" Rákosi continued with his meal as if nothing important happened.\n\nKun's face turned white and he slammed his fist on the table, visibly suprising Rákosi."You killed him without informing me or the council, of course it is a problem!\n\n"He still could have been a useful political tool and putting him on trial would have exposed his betrayal to the public. You do not decide who has to die. I do!"\n\nMátyás was somewhat startled by Kun's reaction but it did not disconcert him."I will admit, maybe I got a bit too comformtable with the daily routine. But you are too soft Kun. Our enemies can not have a chance to gather their forces, when I see an ill tree growing I immediatly cut it down. I just like to be efficient. And on the other hand it was just old Károlyi."\n\nKun calmed down. He was kinda right he should not make such a fuzz out of that old man."Alright... But next time you get any information of that sort you deliver it to me! Understood?"\n\n"Of Course, it will not happen again.""
- hung.1048.a:0 ""Long live the Republic""
-
- #Ideas
+ hung.1048.d:0 "\"Already handled?\"\n\n\"Well yes, after receiving that information I immediatly ordered the Red Guard to remove him silently.\"\n\nKun's mouth dropped open slightly.\"Are you telling me you killed him without informing me or the Governing Council?!\"\n\n\"The faster, the better. Why? Is that a problem?\" Rákosi continued with his meal as if nothing important happened.\n\nKun's face turned white and he slammed his fist on the table, visibly suprising Rákosi.\"You killed him without informing me or the council, of course it is a problem!\n\n\"He still could have been a useful political tool and putting him on trial would have exposed his betrayal to the public. You do not decide who has to die. I do!\"\n\nMátyás was somewhat startled by Kun's reaction but it did not disconcert him.\"I will admit, maybe I got a bit too comformtable with the daily routine. But you are too soft Kun. Our enemies can not have a chance to gather their forces, when I see an ill tree growing I immediatly cut it down. I just like to be efficient. And on the other hand it was just old Károlyi.\"\n\nKun calmed down. He was kinda right he should not make such a fuzz out of that old man.\"Alright... But next time you get any information of that sort you deliver it to me! Understood?\"\n\n\"Of Course, it will not happen again.\""
+ hung.1048.a:0 "\"Long live the Republic\""
  HUN_spirit:0 "Spirit of the Nation"
  HUN_spirit_desc:0 "The people have to trust their new government and soldiers. Without them we are nothing. We must encourage all Hungarians to hope for a brighter future."
  HUN_higher_conscription:0 "Protect your Country"
@@ -207,7 +173,6 @@
  HUN_output:0 "Modernized Industry"
  HUN_construction:0 "Construction Programms"
  HUN_improve_laws:0 "Improved Workers Conditions"
- HUN_new_government:0 "Disorganized Government"
  HUN_new_government_desc:0 "A Revolution without there have being fired a shot has its downsides too. The current government is a coalition of the KMP and the MSZDP. With Unrest growing between the two parties it comes clear to us that the Social Democrats must be purged and the goverment stabilized. Only in that way we can keep control over the country."
  HUN_new_government:0 "While the idea of socialism and marxism are fairly poplular in our country, due to the failed efforts of the conservative government, they do not change the matter that our government is currently disorganized, unexperienced and unstable."
  HUN_coup_danger:0 "The Counter-revolution growing"
@@ -250,22 +215,19 @@
  HUN_horthy_hand:0 "The Right Hand of the King"
  HUN_ger_support:0 "Hungarian Volunteers in Germany"
  HUN_investors:0 "Investors"
-
  HUN_ckd:0 "CKD"
  HUN_tatra:0 "타트라"
  HUN_skoda_armor:0 "스코다 기갑"
-
- #Focus
  hun_kill_the_old:0 "반대파 숙청"
  hun_kill_the_old_desc:0 "우리의 안정이 완전히 현 상태로 되돌아간 것은 아닙니다. 전 정부 지지자들이 주도하는 쿠데타는 지금 행동하지 않으면 언제든 일어날 수 있습니다. 우리의 새로운 공화국에서 누구를 믿을 수 있는지, 누구를 믿을 수 없는지를 봐야 합니다. 믿을 수 없는 자들은 숙청될 것입니다."
  hun_stabilize_the_country:0 "국가 안정화"
  hun_stabilize_the_country_desc:0 "지금 우리의 가장 큰 우선순위는 국가 안정입니다. 우리의 성공적인 혁명 이후, 이 나라는 혼란에 빠졌습니다. 정부의 정책들은 계획되어야 하고 우리는 국내의 나머지 지역에서 무슨 일이 일어나고 있는지에 대한 개요를 얻어야 합니다."
  hun_revoulution:0 "존재감 증대"
- hun_revoulution_desc:0 "While the Revolution is popular in Budapest and large parts of the army it seems like that the countryside does not welcome it like they do. We can not let our control over the rest of the country fall out of our hands, we need to maintain control. Government Representatives and Commisionars have to be sent out to different cities and villages to get an overview of the situation and report back to us.""
+ hun_revoulution_desc:0 "While the Revolution is popular in Budapest and large parts of the army it seems like that the countryside does not welcome it like they do. We can not let our control over the rest of the country fall out of our hands, we need to maintain control. Government Representatives and Commisionars have to be sent out to different cities and villages to get an overview of the situation and report back to us.\""
  hun_a_new_parlimant:0 "신정부"
  hun_a_new_parlimant_desc:0 "Time has come for organizing a new National Congress. With the corrupt and untrustworthy removed we can have a new loyal National Congress which will always rightfully support the government in every decision for the greater good."
  hun_party_elections:0 "The Great Governing Council"
- hun_party_elections_desc:0 "The Governing Council is composed of the most wisest men in the country who act in the the best interests of the revolution. The Thirty Commisionars are devoted Communists who display competence and exellence in their fields of work.
+ hun_party_elections_desc:0 "The Governing Council is composed of the most wisest men in the country who act in the the best interests of the revolution. The Thirty Commisionars are devoted Communists who display competence and exellence in their fields of work."
  hun_execute_horthy:0 "호르티 사냥"
  hun_execute_horthy_desc:0 "이 미친 제독은 우리 정부가 부상한 이후부터 잠적해 왔습니다. 이 제독은 헝가리에서는 사회주의와 마르크스주의에 대한 국민주의적 행동과 증오로 잘 알려져 있습니다. 군대과 정치권은 그가 그의 인기와 함께 반혁명을 조직할 수 있다고 우려하고 있습니다. 그는 반드시 발견되어 처형되어야 합니다!"
  hun_increase_output:0 "공장 생산량 증대"
@@ -279,7 +241,7 @@
  hun_kill_otto:0 "오토 폰 합스부르크 암살"
  hun_kill_otto_desc:0 "오스트리아-헝가리가 아직 살아 있을 때, 오스트리아 왕정이 우리를 지배했습니다. 황제는 헝가리 혈통과 관련 없이 헝가리 황제라는 칭호를 받기도 했습니다. 몇몇은 이것을 용서할지 모르지만, 우리에게 이것은 우리 역사에서 가장 큰 굴욕이었습니다. 오스트리아 왕족의 피는 죽어야 합니다. 그들은 우리가 느꼈던 고통을 느껴야 합니다."
  hun_mobilize_militias:0 "적위대"
- hun_mobilize_militias_desc:0 "Several Communist Militia Groups have formed declaring loyalty to the revolution and are hunting down enemies of the revolution. Mátyás Rákosi will unite this groups and organize them under the banner of the "Red Guard". They handle capitalists, landowners or other enemies of the revolution with any means they deem necassary."
+ hun_mobilize_militias_desc:0 "Several Communist Militia Groups have formed declaring loyalty to the revolution and are hunting down enemies of the revolution. Mátyás Rákosi will unite this groups and organize them under the banner of the \"Red Guard\". They handle capitalists, landowners or other enemies of the revolution with any means they deem necassary."
  hun_new_officer_staff:0 "참모의 역량 보장"
  hun_new_officer_staff_desc:0 "Despite the majority of the Generals being convinced this might not be the case for all of the officers. They need to be better indoctrinated and reformed for the new red army."
  hun_brand_new_tactics:0 "Promise to the Army"
@@ -312,6 +274,7 @@
  hun_demand_hungarian_slovakian_lands_desc:0 "The lands of Southern Slovakia are full of ethnic Hungarians. The state only belongs to them due to the demands of Russia and the Entente. Czechoslovakia must free our people or there will be severe consequences."
  hun_partition_czechia_with_bavaria:0 "Partition Bohemia with Bavaria"
  hun_partition_czechia_with_bavaria_desc:0 "Czechoslovakia is a natural enemy for both us and Germany. Several Hungarians and Germans live inside its borders and the countries allegiance is uncertain. Furthermore with our recent advancements on Slovakian territories, a warmongering fever has broken out in their country which will threaten us in the future. We should make sure with Bavarai to get rid of the threat."
+ hun_demand_trans:0 "Demand Hungarian Transylvania"
  hun_demand_trans_desc:0 "Transylvania is mostly compressed of Hungarians. If Romania will keep occupying them they will hurt the pillars of democracy. For their own good they should give it up."
  hun_subjugate_romania:0 "Destroy Romania"
  hun_subjugate_romania_desc:0 "Regaining Transylvania is not the end for Romania. Since the unification of Wallachia and Moldavia the Romanian Kingdom has threathened our position as a great power in the Balkans. Since almost every neighbours is an enemy of us we have to make sure that they never recover from our future victories. Romania must be divided for our own good."
@@ -351,9 +314,9 @@
  hun_rights_for_austrians_desc:0 "Deporting the Austrians of the Burgeland is not the right choice. We must better integrate them into the revolution and make sure that they feel well in our nation."
  hun_poltical_reformation:0 "Reformation of Hungarian Politics"
  hun_poltical_reformation_desc:0 "Having centralized the power of the governing council we can finally better influence several more internal issues. The old damaging laws and believes will be reversed and replaced by new ones. The people will gain their rightful rights. Everything will be done to ensure stability and prosperity in our country but most importantly the faith in the revolution."
- hun_integrate_romanians:0 "Give Transylvanian Romanians Equal Rights"  
- hun_integrate_romanians_desc:0 "We can not deport all the Romanians left in Transylvania. Large Magyarization campaigns will have no effect in the end and rather make them more resistant to our rule. They must integrated into our society with equal rights."   
- hun_crush_romanians:0 "Begin Magyarization of the Romanians"  
+ hun_integrate_romanians:0 "Give Transylvanian Romanians Equal Rights"
+ hun_integrate_romanians_desc:0 "We can not deport all the Romanians left in Transylvania. Large Magyarization campaigns will have no effect in the end and rather make them more resistant to our rule. They must integrated into our society with equal rights."
+ hun_crush_romanians:0 "Begin Magyarization of the Romanians"
  hun_crush_romanians_desc:0 "The Romanians will always stay a problem in Transylvania. For this problem we need a strong solution. The Magyarization of the Romanian Population is the only way."
  hun_equal_rights:0 "Every Hungarian is Equal"
  hun_equal_rights_desc:0 "It does not matter if you are jewish, if you are a woman or if you are not well educated. Every Hungarian is equal, no one has more rights then the other."
@@ -418,7 +381,6 @@
  hun_doctrine:0 "신식 군대 형태 연구"
  hun_doctrine_desc:0 "다른 나라의 새로운 군대의 형태를 연구하면 우리 군대의 경험을 쌓을 수 있을 것입니다."
  hun_motor:0 "차량화 주력"
- hun_motor_desc:0 "차량화 주력
  hun_tanks:0 "기갑 주력"
  hun_tanks_desc:0 "기갑 주력"
  hun_infantry_tatics:0 "신식 보병 전술 연구"
@@ -437,7 +399,7 @@
  hun_air_doctrine_2_desc:0 "신식 공군 전략을 개발합니다."
  hun_increase_air_production:0 "전투기 생산 증대"
  hun_increase_air_production_desc:0 "우리 공군 장성들과 항공사들은 우리 나라 내 전투기 생산을 늘리기 위한 경제 계획을 수립했습니다."
- hun_drive_reds_out:0 "붉은 위협에 저항하라" 
+ hun_drive_reds_out:0 "붉은 위협에 저항하라"
  hun_drive_reds_out_desc:0 "우리나라는 더러운 사회주의자들과 마르크스주의자들이 몰려들었습니다. 그러나 그들의 공화국은 불안정하고 국민 밑에서 전적으로 지지되는 것은 아닙니다. 우리가 지금 행동한다면 그들을 쫓아내기 위한 싸움을 시작할 수 있습니다."
  hun_bring_order:0 "황폐한 이 나라에 질서를 가져와라"
  hun_bring_order_desc:0 "나라가 망했습니다. 국민은 실패한 민주주의 아래 20년을 살아왔습니다. 그러자 사회주의자와 마르크스주의자들이 지난 2주간 잔혹한 정권을 이어받아 설치했습니다. 이제 그들은 호르티 저항군에 의해 해방되었지만 정신적 충격을 받았습니다. 우리는 이 나라에 질서를 가져다 주어야 합니다!"
@@ -525,19 +487,10 @@
  hun_preapare_for_war_desc:0 "전쟁이 다가오고 있습니다. 기본적으로 느낄 수 있습니다."
  hun_right_hand:0 "The Right Hand of the King"
  hun_right_hand_desc:0 "Remember who gave you this crown. Admiral Horthy will guide the King in all fields he needs. He has proven his loyalty to the nation and the monarchy through his uprising and his respectfully rewareded with power in the government."
-    
-
- #CostumTooltipps
  HUN_custom_militias:0 "§RThe Red Guard will maintain order and hunt down all enemies of the Revolution"
  HUN_horthy:0 "§GHorthy is dead."
  HUN_rebellion:0 "§RHorthy will start a civil war to overthrow the Communist Goverment."
  HUN_proclaim_greater:0 "§GProclaim the Danubian Union§!"
  HUN_greater_socialist_republic_category:0 "The Borders of Hungary"
  HUN_march_into_vojo:0 "March into Vojovodina"
-
-#Avisor
-HUN_jozsef_pogany:0 "요제프 포가니"
-
-
-
-
+ HUN_jozsef_pogany:0 "요제프 포가니"

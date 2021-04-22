@@ -1,7 +1,5 @@
 ﻿l_english:
- #Faction 
  Jap_prosperity_sphere_faction:0 "대동아공영권"
- 
  JAP_rising_sun:0 "욱일 제국"
  JAP_rising_sun_desc:0 "With the occupation of Manchuria and Korea, Japan has shown its might and shown the arrival of a new Great Empire in the East, a Rising Sun that is not to be meddled with."
  JAP_expansionism:0 "팽창주의 독트린"
@@ -16,11 +14,11 @@
  JAP_imperial_glory_desc:0 "We must show the people the glory of the Empire. This way, we can achieve more public support."
  JAP_peaceful_rise:0 "평화의 길"
  JAP_peaceful_rise_desc:0 "Perhaps we should reconsider our actions and try to negotiate with our neighbours with the power of diplomacy."
- JAP_students:0 "학생 개혁" 
+ JAP_students:0 "학생 개혁"
  JAP_students_desc:0 "We should teach our younger generation the meaning of Bushido, the way of the warrior. It will be them who will protect our homeland in the future."
  JAP_infrastructure1:0 "북부 현대화"
  JAP_infrastructure1_desc:0 "The north of Japan was never an industrial spot, nor does it have a lot of resources. Because of this, the government has never seen the need to modernize the infrastructure. Time to change this."
- JAP_infrastructure2:0 "도시 구조조정" 
+ JAP_infrastructure2:0 "도시 구조조정"
  JAP_infrastructure2_desc:0 "The Japanese cities were not built around the idea of cars and trucks. They will need restructuring in order to accomodate these vehicles."
  JAP_infrastructure3:0 "해외 영토 개선"
  JAP_infrastructure3_desc:0 "Although it is important to modernize our homeland, we must realize that most fighting will take place in our overseas territories. We must therefore not neglect them, as poor development will only hinder our war effort."
@@ -204,7 +202,6 @@
  JAP_further_reforms_desc:0 "Now with the parliamant in control we can implement new reforms and improve the situation for the regular Japanese citizen."
  JAP_new_project:0 "새로운 민간산업"
  JAP_new_project_desc:0 "With new industrial projects we can help the civilian population improve their standard of living."
-
  JAP_democratic_popularity:0 "민주화 운동"
  JAP_democratic_outburst:0 "민주화 시위"
  JAP_army_planning:0 "군사 계획"
@@ -219,6 +216,3 @@
  JAP_silencing:0 "숙청된 반대파"
  JAP_influence_us:0 "일본 영향력"
  JAP_jungle_combat:0 "강화된 정글 훈련"
-
-
-

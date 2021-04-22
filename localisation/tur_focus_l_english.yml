@@ -18,7 +18,6 @@
  TUR_glass_industry:0 "터키 유리 산업"
  TUR_glass_industry_desc:0 "Just like the textile industry, the Turkish glass industry is also an integral part of our economy. We should expand these factories in order to export more resources."
  TUR_antolian_railways:0 "아나톨리아 철도"
- TUR_antolian_railways_desc:0 "Our old railways system is in disrepair and is barely accessible. The Antolian railway must be expanded in order to allow for easy transportation.
  TUR_nationalize_industry:0 "산업 국유화"
  TUR_nationalize_industry_desc:0 "많은 부유한 러시아인들이 여전히 우리 산업의 많은 부분을 차지하고 있습니다. 이것은 산업화를 위한 우리의 계획을 후퇴시키는 해로운 요소입니다. 비록 그것이 러시아인들을 화나게 할 지라도 우리는 정말로 이 산업을 우리의 허리띠 아래 사용할 수 있습니다."
  TUR_industrial_nation:0 "산업화 국가"
@@ -188,7 +187,6 @@
  TUR_reinforce_east_desc:0 "Our Eastern neighbour is the mighty Russia. We cannot possibly match their strengh but we could try defend against them."
  TUR_reinforce_west:0 "서부 국경 강화"
  TUR_reinforce_west_desc:0 "Our most important city Instanbul is located just short of our Western most border. We must fortify the cities approaches in order to secure the Borsphorus."
-##### TOOLTIPS/FLAGS #####
  TUR_calph_council:0 "의회를 설립했거나 칼리프를 다시 초빙했음"
  TUR_millet_tt:0 "§Y3 민병대 사단§을 아나톨리아에 배치합니다."
  WIP_ttt:0 "아직 작업 중, 다음에 다시 오세요;)"

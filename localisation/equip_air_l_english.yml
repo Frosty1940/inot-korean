@@ -1,4 +1,4 @@
-﻿ l_english:
+﻿l_english:
  fighter:0 "전투기"
  fighter_equipment_desc:0 "전투기는 빠르고 날렵하며 많은 임무를  수행할 수 있습니다. 제공권 확보를 위한 공중전, 아군 폭격기 보호, 적 폭격기 요격까지 모든 것을 할 수 있습니다."
  cv_fighter:0 "전투기"
@@ -8,11 +8,11 @@
  jet_fighter_equipment_desc:0 "전투기는 빠르고 날렵하며 많은 임무를  수행할 수 있습니다. 제공권 확보를 위한 공중전, 아군 폭격기 보호, 적 폭격기 요격까지 모든 것을 할 수 있습니다."
  cas:1 "근접항공지원기"
  CAS_equipment_desc:0 "근접항공지원기는 지상 전투를 지원하기 위해 설계 되었습니다."
- cv_cas:2 "근접항공지원기(함재기)"
+ cv_cas:1 "근접항공지원기(함재기)"
  cv_CAS_equipment_desc:0 "근접항공지원기는 지상 전투를 지원하기 위해 설계 되었습니다."
  nav_bomber:0 "뇌격기"
  nav_bomber_equipment_desc:0 "뇌격기는 적 함선에 대한 공격을 수행 할 수 있습니다."
- cv_nav_bomber:1 "뇌격기(함재기)"
+ cv_nav_bomber:0 "뇌격기(함재기)"
  cv_nav_bomber_equipment_desc:0 "뇌격기는 적 함선에 대한 공격을 수행 할 수 있습니다."
  tac_bomber:0 "전술폭격기"
  tac_bomber_equipment_desc:0 "전술폭격기는 지상군을 도와 줄 수 있고 적 건물을 폭격 할 수 있는 작고 빠른 폭격기입니다."
@@ -183,7 +183,7 @@
  GER_strat_bomber_equipment_1:0 "도르니에 Do 19"
  GER_strat_bomber_equipment_1_short:0 "Do 19"
  GER_strat_bomber_equipment_2:0 "하인켈 He 177 'Greif'"
- GER_strat_bomber_equipment_2_short:0 "He 177 'Greif'"
+ GER_strat_bomber_equipment_2_short:0 "He 177 '그라이프'"
  GER_strat_bomber_equipment_3:0 "포케-불프 Ta 400"
  GER_strat_bomber_equipment_3_short:0 "Ta 400"
  GER_jet_fighter_equipment_1:0 "메서슈미트 Me 262 '슈발베'"
@@ -245,7 +245,7 @@
  AUS_fighter_equipment_0:0 "피아트 CR.32"
  AUS_fighter_equipment_0_short:0 "CR.32"
  AUS_fighter_equipment_1:0 "마키 C.200 Saetta"
- AUS_fighter_equipment_1_short:0 "C.200 Saetta"
+ AUS_fighter_equipment_1_short:0 "C.200 사에타"
  AUS_fighter_equipment_2:0 "포케-불프 Fw 190"
  AUS_fighter_equipment_2_short:0 "Fw 190"
  AUS_fighter_equipment_3:0 "포케-불프 Ta 152"
@@ -258,8 +258,8 @@
  AUS_heavy_fighter_equipment_3_short:0 "Ju 388"
  AUS_strat_bomber_equipment_1:0 "도르니에 Do 19"
  AUS_strat_bomber_equipment_1_short:0 "Do 19"
- AUS_strat_bomber_equipment_2:0 "하인켈 He 177 'Greif'"
- AUS_strat_bomber_equipment_2_short:0 "He 177 'Greif'"
+ AUS_strat_bomber_equipment_2:0 "하인켈 He 177 '그라이프'"
+ AUS_strat_bomber_equipment_2_short:0 "He 177 '그라이프'"
  AUS_strat_bomber_equipment_3:0 "포케-불프 Ta 400"
  AUS_strat_bomber_equipment_3_short:0 "Ta 400"
  AUS_jet_fighter_equipment_1:0 "메서슈미트 Me 262 '슈발베'"
@@ -420,7 +420,7 @@
  SAF_heavy_fighter_equipment_1_short:0 "블렌하임"
  RAJ_heavy_fighter_equipment_1_short:0 "블렌하임"
  CAN_heavy_fighter_equipment_2:0 "브리스톨 보파이터"
- AST_heavy_fighter_equipment_2:1 "브리스톨 보파이터"
+ AST_heavy_fighter_equipment_2:0 "브리스톨 보파이터"
  NZL_heavy_fighter_equipment_2:0 "브리스톨 보파이터"
  SAF_heavy_fighter_equipment_2:0 "브리스톨 보파이터"
  RAJ_heavy_fighter_equipment_2:0 "브리스톨 보파이터"
@@ -741,34 +741,32 @@
  USA_tac_bomber_equipment_3_short:0 "XB-28 드래곤"
  USA_jet_tac_bomber_equipment_2:0 "마틴 XB-51"
  USA_jet_tac_bomber_equipment_2_short:0 "XB-51"
- USA_nav_bomber_equipment_1:1 "PBY 카탈리나"
- USA_nav_bomber_equipment_1_short:1 "카탈리나"
- USA_nav_bomber_equipment_2:2 "PBM 마리너"
- USA_nav_bomber_equipment_2_short:2 "마리너"
- USA_nav_bomber_equipment_3:1 "PB4Y-2 프라이버티어"
- USA_nav_bomber_equipment_3_short:1 "프라이버티어"
- USA_cv_nav_bomber_equipment_3:1 "더글러스 BTD 디스트로이어"
- USA_cv_nav_bomber_equipment_3_short:1 "BTD 디스트로이어"
+ USA_nav_bomber_equipment_1:0 "PBY 카탈리나"
+ USA_nav_bomber_equipment_1_short:0 "카탈리나"
+ USA_nav_bomber_equipment_2:1 "PBM 마리너"
+ USA_nav_bomber_equipment_2_short:1 "마리너"
+ USA_nav_bomber_equipment_3:0 "PB4Y-2 프라이버티어"
+ USA_nav_bomber_equipment_3_short:0 "프라이버티어"
  USA_cv_CAS_equipment_1:0 "노스롭 BT"
  USA_cv_CAS_equipment_1_short:0 "노스롭 BT"
- USA_CAS_equipment_2:1 "A-20 하복"
- USA_CAS_equipment_2_short:1 "A-20"
- USA_CAS_equipment_3:1 "A-26 인베이더"
- USA_CAS_equipment_3_short:1 "A-26"
+ USA_CAS_equipment_2:0 "A-20 하복"
+ USA_CAS_equipment_2_short:0 "A-20"
+ USA_CAS_equipment_3:0 "A-26 인베이더"
+ USA_CAS_equipment_3_short:0 "A-26"
  USA_cv_nav_bomber_equipment_1:0 "더글러스 TBD 데버스테이터"
  USA_cv_nav_bomber_equipment_1_short:0 "TBD 데버스테이터"
  USA_cv_nav_bomber_equipment_2:0 "그루먼 TBF-1C 어벤저"
  USA_cv_nav_bomber_equipment_2_short:0 "TBF-1C 어벤저"
- #USA_cv_nav_bomber_equipment_3:0 "Consolidated TBY Sea Wolf"
- #USA_cv_nav_bomber_equipment_3_short:0 "TBY Sea Wolf"
+ USA_cv_nav_bomber_equipment_3:0 "더글러스 BTD 디스트로이어"
+ USA_cv_nav_bomber_equipment_3_short:0 "BTD 디스트로이어"
  USA_CAS_equipment_1:0 "노스롭 A-17"
  USA_CAS_equipment_1_short:0 "A-17"
  USA_cv_CAS_equipment_2:0 "더글러스 SBD-2 돈틀리스"
  USA_cv_CAS_equipment_2_short:0 "SBD-2 돈틀리스"
  USA_cv_CAS_equipment_3:0 "커티스 SB2C-1s 헬다이버"
  USA_cv_CAS_equipment_3_short:0 "SB2C-1s 헬다이버"
- USA_cv_fighter_equipment_0:0 "그루먼 FF 'Fifi'"
- USA_cv_fighter_equipment_0_short:0 "FF 'Fifi'"
+ USA_cv_fighter_equipment_0:0 "그루먼 FF '피피'"
+ USA_cv_fighter_equipment_0_short:0 "FF '피피'"
  USA_cv_fighter_equipment_1:0 "그루먼 F3F"
  USA_cv_fighter_equipment_1_short:0 "F3F"
  USA_cv_fighter_equipment_2:0 "그루먼 F4F 와일드캣"
@@ -1043,9 +1041,6 @@
  ITA_transport_plane_equipment_1:0 "카프로니 Ca.133"
  FRA_transport_plane_equipment_1:0 "MB. 220"
  SWE_transport_plane_equipment_1:0 "Trp2"
-
- ###Planes###
- # Australia
  AST_fighter_equipment_1:0 "CAC CA-12 부메랑"
  AST_fighter_equipment_1_short:0 "CAC 부메랑"
  AST_fighter_equipment_2:0 "CAC 머스탱"
@@ -1056,82 +1051,60 @@
  AST_CAS_equipment_1_short:0 "CA-1"
  AST_CAS_equipment_2:0 "CAC CA-11 우머라"
  AST_CAS_equipment_2_short:0 "CAC 우머라"
- AST_CAS_equipment_3:1 "브리스톨 보파이터 마크 21"
- AST_CAS_equipment_3_short:1 "보파이터 Mk 21"
- 
+ AST_CAS_equipment_3:0 "브리스톨 보파이터 마크 21"
+ AST_CAS_equipment_3_short:0 "보파이터 Mk 21"
  AST_jet_fighter_equipment_2:0 "CAC 세이버"
  AST_jet_fighter_equipment_2_short:0 "CAC 세이버"
- 
- #Argentinia
- 
  ARG_heavy_fighter_equipment_3:0 "I.Ae 30 난쿠 P1"
  ARG_heavy_fighter_equipment_3_short:0 "난쿠 P1"
- 
  ARG_fighter_equipment_0:0 "FMA D.21"
  ARG_fighter_equipment_0_short:0 "D.21"
  ARG_fighter_equipment_2:0 "FMA 호크 75O"
  ARG_fighter_equipment_2_short:0 "호크 75O"
- 
  ARG_CAS_equipment_2:0 "I.Ae 22 DL"
  ARG_CAS_equipment_2_short:0 "I.Ae 22 DL"
  ARG_CAS_equipment_3:0 "I.Ae 30 난쿠 P2"
  ARG_CAS_equipment_3_short:0 "난쿠 P2"
- 
  ARG_tac_bomber_equipment_0:0 "FMA AeMB.1"
  ARG_tac_bomber_equipment_0_short:0 "FMA AeMB.1"
  ARG_tac_bomber_equipment_1:0 "FMA AeMB.2"
  ARG_tac_bomber_equipment_1_short:0 "FMA AeMB.2"
  ARG_tac_bomber_equipment_3:0 "I.Ae 24 캘킨"
  ARG_tac_bomber_equipment_3_short:0 "캘킨"
- 
  ARG_jet_fighter_equipment_1:0 "FMA I.Ae. 27 풀키 I"
  ARG_jet_fighter_equipment_1_short:0 "풀키 I"
  ARG_jet_fighter_equipment_2:0 "풀키 II"
  ARG_jet_fighter_equipment_2_short:0 "풀키 II"
- 
- #Belgium
- 
  BEL_fighter_equipment_0:0 "아비온 페어리 파이어플라이"
  BEL_fighter_equipment_0_short:0 "Av-F. 파이어플라이"
  BEL_fighter_equipment_1:0 "아비온 페어리 판톰"
  BEL_fighter_equipment_1_short:0 "판톰"
  BEL_fighter_equipment_2:0 "레나드 R.36"
  BEL_fighter_equipment_2_short:0 "R.36"
- 
  BEL_CAS_equipment_1:0 "아비온 페어리 배틀"
  BEL_CAS_equipment_1_short:0 "전투"
  BEL_CAS_equipment_2:0 "SABCA S.47"
  BEL_CAS_equipment_2_short:0 "S.47"
- 
  BEL_tac_bomber_equipment_1:0 "LACAB GR.8"
  BEL_tac_bomber_equipment_1_short:0 "GR.8"
  BEL_tac_bomber_equipment_2:0 "레나드-PZL 37"
  BEL_tac_bomber_equipment_2_short:0 "R-PZL 37"
- 
  BEL_jet_fighter_equipment_2:0 "SABCA 헌터"
  BEL_jet_fighter_equipment_2_short:0 "헌터"
-
- #Bulgarian
- 
  BUL_CAS_equipment_1:0 "DAR 10"
  BUL_CAS_equipment_1_short:0 "DAR 10"
  BUL_CAS_equipment_2:0 "KB-11 파잔"
  BUL_CAS_equipment_2_short:0 "KB-11"
- # canadian
- 
  CAN_jet_fighter_equipment_1:0 "드 하빌랜드 뱀파이어"
  CAN_jet_fighter_equipment_1_short:0 "뱀파이어"
  CAN_jet_fighter_equipment_2:0 "CL 100 카누크"
  CAN_jet_fighter_equipment_2_short:0 "CL 100 카누크"
- 
- #Czech
  CZE_CAS_equipment_1:0 "에어로 보도호디 A.101"
  CZE_CAS_equipment_1_short:0 "에어로 A.101"
  CZE_CAS_equipment_2:0 "Letov S-528"
  CZE_CAS_equipment_2_short:0 "Letov S-615"
  CZE_CAS_equipment_3:0 "Letov S-615"
  CZE_CAS_equipment_3_short:0 "S-615"
- 
  CZE_fighter_equipment_0:0 "아비아 B-34.1"
  CZE_fighter_equipment_0_short:0 "아비아 B-34.1"
  CZE_fighter_equipment_1:0 "아비아 B-534.1"
@@ -1140,14 +1113,12 @@
  CZE_fighter_equipment_2_short:0 "아비아 B-135"
  CZE_fighter_equipment_3:0 "에비아  S-199"
  CZE_fighter_equipment_3_short:0 "에비아  S-199"
- 
  CZE_heavy_fighter_equipment_1:0 "에비아 B-734.2"
  CZE_heavy_fighter_equipment_1_short:0 "에비아 B-734.2"
  CZE_heavy_fighter_equipment_2:0 "에비아 B-137"
  CZE_heavy_fighter_equipment_2_short:0 "에비아 B-137"
  CZE_heavy_fighter_equipment_3:0 "에어로 A.300 전투기"
  CZE_heavy_fighter_equipment_3_short:0 "A.300 전투기"
- 
  CZE_tac_bomber_equipment_0:0 "에어로 보도호디 A.100"
  CZE_tac_bomber_equipment_0_short:0 "에어로 A.100"
  CZE_tac_bomber_equipment_1:0 "에어로 보도호디 A.304"
@@ -1156,32 +1127,26 @@
  CZE_tac_bomber_equipment_2_short:0 "레토브 Š-50"
  CZE_tac_bomber_equipment_3:0 "에어로 보도초디 A.300"
  CZE_tac_bomber_equipment_3_short:0 "에어로 A.300"
- 
  CZE_strat_bomber_equipment_1:0 "에어로 보드호디 C.301"
  CZE_strat_bomber_equipment_1_short:0 "에어로 C.301"
  CZE_strat_bomber_equipment_2:0 "에어로 보드호디  C.508"
  CZE_strat_bomber_equipment_2_short:0 "에어로 C.508"
  CZE_strat_bomber_equipment_3:0 "에어로 보드호디  A.711"
  CZE_strat_bomber_equipment_3_short:0 "에어로  A.711"
- 
  CZE_nav_bomber_equipment_1:0 "레토브  S-502"
  CZE_nav_bomber_equipment_1_short:0 "레토브  S-502"
  CZE_nav_bomber_equipment_2:0 "레토브 S-655"
  CZE_nav_bomber_equipment_2_short:0 "레토브 S-655"
  CZE_nav_bomber_equipment_3:0 "아비아 A-298"
  CZE_nav_bomber_equipment_3_short:0 "아비아 A-298"
- 
  CZE_jet_fighter_equipment_1:0 "아비아 S-92"
  CZE_jet_fighter_equipment_1_short:0 "S-92"
- 
- #Romania
  ROM_CAS_equipment_1:0 "IAR 37"
  ROM_CAS_equipment_1_short:0 "IAR 37"
  ROM_CAS_equipment_2:0 "IAR 81"
  ROM_CAS_equipment_2_short:0 "IAR 81"
  ROM_CAS_equipment_3:0 "IAR 471"
  ROM_CAS_equipment_3_short:0 "IAR 471"
- 
  ROM_fighter_equipment_0:0 "IAR 12"
  ROM_fighter_equipment_0_short:0 "IAR 12"
  ROM_fighter_equipment_1:0 "IAR 14"
@@ -1190,14 +1155,12 @@
  ROM_fighter_equipment_2_short:0 "IAR 80"
  ROM_fighter_equipment_3:0 "IAR 109G"
  ROM_fighter_equipment_3_short:0 "IAR 109G"
-
  ROM_heavy_fighter_equipment_1:0 "IAR 214"
  ROM_heavy_fighter_equipment_1_short:0 "IAR 214"
  ROM_heavy_fighter_equipment_2:0 "IAR 380"
  ROM_heavy_fighter_equipment_2_short:0 "IAR 380"
  ROM_heavy_fighter_equipment_3:0 "IAR 410"
  ROM_heavy_fighter_equipment_3_short:0 "IAR 410"
- 
  ROM_tac_bomber_equipment_0:1 "IAR 25"
  ROM_tac_bomber_equipment_0_short:1 "IAR 25"
  ROM_tac_bomber_equipment_1:1 "IAR 137"
@@ -1206,7 +1169,6 @@
  ROM_tac_bomber_equipment_2_short:1 "IAR 633"
  ROM_tac_bomber_equipment_3:1 "IAR 779"
  ROM_tac_bomber_equipment_3_short:1 "IAR 779"
-
  ROM_strat_bomber_equipment_0:0 "IAR 528"
  ROM_strat_bomber_equipment_0_short:0 "IAR 528"
  ROM_strat_bomber_equipment_1:0 "IAR 679"
@@ -1215,43 +1177,32 @@
  ROM_strat_bomber_equipment_2_short:0 "IAR 765"
  ROM_strat_bomber_equipment_3:0 "IAR 979"
  ROM_strat_bomber_equipment_3_short:0 "IAR 979"
- 
  ROM_nav_bomber_equipment_1:1 "IAR 55"
  ROM_nav_bomber_equipment_1_short:1 "IAR 55"
  ROM_nav_bomber_equipment_2:1 "IAR 114"
  ROM_nav_bomber_equipment_2_short:1 "IAR 114"
  ROM_nav_bomber_equipment_3:0 "IAR 117"
  ROM_nav_bomber_equipment_3_short:0 "IAR 117"
-
- #Holland 
- # herr 포커 wins the race, with a single Koolhoven interloper
-
  HOL_heavy_fighter_equipment_1:0 "포커 G.1 머큐리"
  HOL_heavy_fighter_equipment_1_short:0 "포커 G.1M"
  HOL_heavy_fighter_equipment_2:0 "포커 G.1 와스프"
  HOL_heavy_fighter_equipment_2_short:0 "포커 G.1W"
-
  HOL_fighter_equipment_0:0 "포커 D.XVII"
  HOL_fighter_equipment_0_short:0 "포커 D.XVII"
  HOL_fighter_equipment_1:0 "포커 D.XXI"
  HOL_fighter_equipment_1_short:0 "포커 D.XXI"
  HOL_fighter_equipment_2:0 "쿨호펜 F.K.58"
  HOL_fighter_equipment_2_short:0 "F.K. 58"
-
  HOL_nav_bomber_equipment_1:0 "포커 T.IVa"
  HOL_nav_bomber_equipment_1_short:0 "포커 T.IVa"
  HOL_nav_bomber_equipment_2:0 "포커 T.VIII"
  HOL_nav_bomber_equipment_2_short:0 "포커 T.VIII"
-
  HOL_tac_bomber_equipment_0:0 "포커 C.V D/E"
  HOL_tac_bomber_equipment_0_short:0 "포커 C.V D/E"
  HOL_tac_bomber_equipment_1:0 "포커 T.V"
  HOL_tac_bomber_equipment_1_short:0 "포커 T.V"
  HOL_tac_bomber_equipment_2:0 "포커 T.IX"
  HOL_tac_bomber_equipment_2_short:0 "포커 T.IX"
-
- #Finland
- 
  FIN_fighter_equipment_0:0 "글로스터 쿠고"
  FIN_fighter_equipment_0_short:0 "쿠고"
  FIN_fighter_equipment_1:0 "VL 미르스키"
@@ -1260,42 +1211,30 @@
  FIN_fighter_equipment_2_short:0 "VL 흐무"
  FIN_fighter_equipment_3:0 "VL 피오레미르스키"
  FIN_fighter_equipment_3_short:0 "VL 피오레미르스키"
- 
  FIN_nav_bomber_equipment_1:0 "VL 콧카"
  FIN_nav_bomber_equipment_1_short:0 "VL 콧카"
- 
  FIN_CAS_equipment_1:0 "포커-VL C.X"
  FIN_CAS_equipment_1_short:0 "포커-VL C.X"
- 
  FIN_tac_bomber_equipment_1:0 "브리스톨-VL 블렌하임"
  FIN_tac_bomber_equipment_1_short:0 "블렌하임"
- 
- #Norway
- 
  NOR_fighter_equipment_0:0 "F.F. 7 호크"
  NOR_fighter_equipment_0_short:0 "호크"
- 
  NOR_nav_bomber_equipment_1:0 "M.F. 11"
  NOR_nav_bomber_equipment_1_short:0 "M.F. 11"
- 
  NOR_tac_bomber_equipment_0:0 "샬르-폭피르 C.V"
  NOR_tac_bomber_equipment_0_short:0 "Kj.-F. C.V"
- 
- #Hungary
  HUN_heavy_fighter_equipment_1:0 "RMI-3 X/V"
  HUN_heavy_fighter_equipment_1_short:0 "RMI-3 X/V"
  HUN_heavy_fighter_equipment_2:1 "DRR 210C"
  HUN_heavy_fighter_equipment_2_short:1 "DRR 210C"
  HUN_heavy_fighter_equipment_3:1 "RMI-8 X/V"
  HUN_heavy_fighter_equipment_3_short:1 "RMI-8 X/V"
- 
  HUN_CAS_equipment_1:1 "Weiss WM-16 부다페스트"
  HUN_CAS_equipment_1_short:0 "WM-16"
  HUN_CAS_equipment_2:0 "Weiss WM-21 소이욤"
  HUN_CAS_equipment_2_short:0 "WM-21"
  HUN_CAS_equipment_3:0 "RMI-3 Z/G"
  HUN_CAS_equipment_3_short:0 "RMI-3 Z/G"
- 
  HUN_fighter_equipment_0:0 "AVIS III"
  HUN_fighter_equipment_0_short:0 "AVIS III"
  HUN_fighter_equipment_1:0 "Weiss WM-23 에제스튜닐"
@@ -1304,21 +1243,18 @@
  HUN_fighter_equipment_2_short:2 "헤야"
  HUN_fighter_equipment_3:0 "마보그 헤야 II"
  HUN_fighter_equipment_3_short:0 "헤야 II"
-
  HUN_strat_bomber_equipment_1:0 "RMI-5 X/G"
  HUN_strat_bomber_equipment_1_short:0 "RMI-5"
  HUN_strat_bomber_equipment_2:0 "RMI-12 Z/G"
  HUN_strat_bomber_equipment_2_short:0 "RMI-12"
  HUN_strat_bomber_equipment_3:0 "RMI-15 X/U"
  HUN_strat_bomber_equipment_3_short:0 "RMI-15"
-
  HUN_nav_bomber_equipment_1:0 "RMI-1 X/G"
  HUN_nav_bomber_equipment_1_short:0 "RMI-1"
  HUN_nav_bomber_equipment_2:0 "MÁVAG Sas"
  HUN_nav_bomber_equipment_2_short:0 "Sas"
  HUN_nav_bomber_equipment_3:0 "MÁVAG Holló"
  HUN_nav_bomber_equipment_3_short:0 "Holló"
- 
  HUN_tac_bomber_equipment_0:0 "WM-35"
  HUN_tac_bomber_equipment_0_short:0 "WM-35"
  HUN_tac_bomber_equipment_1:0 "WM-37"
@@ -1327,47 +1263,34 @@
  HUN_tac_bomber_equipment_2_short:0 "RMI-13"
  HUN_tac_bomber_equipment_3:0 "RMI-16 Z/H"
  HUN_tac_bomber_equipment_3_short:0 "RMI-16"
- #British Raj
-
  RAJ_fighter_equipment_0:0 "호커 하트"
  RAJ_fighter_equipment_0_short:0 "하트"
- 
  RAJ_fighter_equipment_1:0 "호커 데몬"
  RAJ_fighter_equipment_1_short:0 "데몬"
- 
  RAJ_cv_fighter_equipment_0:0 "호커 오스프리"
  RAJ_cv_fighter_equipment_0_short:0 "오스프리"
- #Spain
  SPR_fighter_equipment_2:0 "히스패노 아비아피온 HA-1112"
  SPR_fighter_equipment_2_short:0 "HA-1112"
- 
- #Sweden 
-
  SWE_CAS_equipment_1:0 "SAAB 노스롭 A-17 8A-1"
  SWE_CAS_equipment_1_short:0 "SAAB A-17 8A-1"
  SWE_CAS_equipment_2:0 "SAAB B17"
  SWE_CAS_equipment_2_short:0 "SAAB B17"
  SWE_CAS_equipment_3:0 "SAAB B18B"
  SWE_CAS_equipment_3_short:0 "SAAB B18B"
- 
  SWE_cv_CAS_equipment_1:0 "ASJA 호커 오스프리"
  SWE_cv_CAS_equipment_1_short:0 "ASJA 오스프리"
- 
  SWE_tac_bomber_equipment_0:0 "CVM 포커 C.V S/J-3"
  SWE_tac_bomber_equipment_0_short:0 "CVM S/J-3"
  SWE_tac_bomber_equipment_1:0 "SAAB Ju-86K"
  SWE_tac_bomber_equipment_1_short:0 "Ju-86K"
  SWE_tac_bomber_equipment_2:0 "SAAB B18A"
  SWE_tac_bomber_equipment_2_short:0 "SAAB B18A"
- 
  SWE_nav_bomber_equipment_1:0 "SAAB T18"
  SWE_nav_bomber_equipment_1_short:0 "SAAB T18"
- 
  SWE_jet_fighter_equipment_1:0 "SAAB 21R"
  SWE_jet_fighter_equipment_1_short:0 "SAAB 21R"
  SWE_jet_fighter_equipment_2:0 "SAAB 32 란센"
  SWE_jet_fighter_equipment_2_short:0 "SAAB 32"
- 
  SWE_fighter_equipment_0:0 "ASJA SA-14 야크트팔켄"
  SWE_fighter_equipment_0_short:0 "ASJA SA-14"
  SWE_fighter_equipment_1:0 "세벌스키 P-35 J9"
@@ -1376,17 +1299,10 @@
  SWE_fighter_equipment_2_short:0 "Re. 2000 J12"
  SWE_fighter_equipment_3:0 "SAAB J21"
  SWE_fighter_equipment_3_short:0 "SAAB J21"
- 
- #switzerland
- 
  SWI_fighter_equipment_0:0 "Dewoitine D.27"
  SWI_fighter_equipment_0_short:0 "D.27"
-
  SWI_tac_bomber_equipment_0:0 "K+W 툰 포커 C.V.-E"
  SWI_tac_bomber_equipment_0_short:0 "K+W C.V.-E"
- 
- # Turkish planes, all fictional, licence, or fictional licence builds
- 
  TUR_fighter_equipment_0:0 "탐TAS 호크"
  TUR_fighter_equipment_0_short:0 "탐TAS 호크"
  TUR_fighter_equipment_1:0 "탐TAS 허리케인"
@@ -1395,7 +1311,6 @@
  TUR_fighter_equipment_2_short:0 "THK Fw 190"
  TUR_fighter_equipment_3:0 "THK P47"
  TUR_fighter_equipment_3_short:0 "THK P47"
- 
  TUR_tac_bomber_equipment_0:0 "탐TAS Ju A-20"
  TUR_tac_bomber_equipment_0_short:0 "A-20"
  TUR_tac_bomber_equipment_1:0 "탐TAS 블레넘"
@@ -1404,8 +1319,6 @@
  TUR_tac_bomber_equipment_2_short:0 "THK 볼티모어"
  TUR_tac_bomber_equipment_3:0 "THK 인베이더"
  TUR_tac_bomber_equipment_3_short:0 "THK 인베이더"
- 
- #chinese planes
  CHI_fighter_equipment_0:0 "루차우 광지 3식"
  CHI_fighter_equipment_0_short:0 "3식"
  CHI_fighter_equipment_1:1 "CAMCO 호크"
@@ -1414,21 +1327,18 @@
  CHI_fighter_equipment_2_short:0 "X-P0"
  CHI_fighter_equipment_3:0 "CAMCO P12"
  CHI_fighter_equipment_3_short:0 "P12"
- 
  CHI_CAS_equipment_1:0 "CAMCO 불티 V-11"
  CHI_CAS_equipment_1_short:0 "불티V-11"
  CHI_CAS_equipment_2:0 "CAMCO 12식"
  CHI_CAS_equipment_2_short:0 "12식"
  CHI_CAS_equipment_3:0 "CAMCO 24식"
  CHI_CAS_equipment_3_short:0 "24식"
- 
  CHI_nav_bomber_equipment_1:0 "CAMCO N-323"
  CHI_nav_bomber_equipment_1_short:0 "N-323"
  CHI_nav_bomber_equipment_2:0 "CAMCO N-650"
  CHI_nav_bomber_equipment_2_short:0 "N-650"
  CHI_nav_bomber_equipment_3:0 "CAMCO N-854"
  CHI_nav_bomber_equipment_3_short:0 "N-854"
- 
  CHI_tac_bomber_equipment_0:0 "CAMCO 16식"
  CHI_tac_bomber_equipment_0_short:0 "16식"
  CHI_tac_bomber_equipment_1:0 "CAMCO 36식"
@@ -1437,21 +1347,18 @@
  CHI_tac_bomber_equipment_2_short:0 "40식"
  CHI_tac_bomber_equipment_3:0 "CAMCO 44식"
  CHI_tac_bomber_equipment_3_short:0 "44식"
- 
  CHI_strat_bomber_equipment_1:0 "CAMCO 236식"
  CHI_strat_bomber_equipment_1_short:0 "236식"
  CHI_strat_bomber_equipment_2:0 "CAMCO 240식"
  CHI_strat_bomber_equipment_2_short:0 "240식"
  CHI_strat_bomber_equipment_3:0 "CAMCO 444식"
  CHI_strat_bomber_equipment_3_short:0 "444식"
- 
  CHI_heavy_fighter_equipment_1:0 "CAMCO P-60"
  CHI_heavy_fighter_equipment_1_short:0 "P-60"
  CHI_heavy_fighter_equipment_2:0 "CAMCO PF-77"
  CHI_heavy_fighter_equipment_2_short:0 "PF-77"
  CHI_heavy_fighter_equipment_3:0 "CAMCO PF-98"
  CHI_heavy_fighter_equipment_3_short:0 "PF-98"
- 
  SHX_fighter_equipment_0:0 "루차우 광지 3식"
  SHX_fighter_equipment_0_short:0 "3식"
  SHX_fighter_equipment_1:0 "CAMCO 호크"
@@ -1492,7 +1399,6 @@
  SHX_heavy_fighter_equipment_2_short:0 "PF-77"
  SHX_heavy_fighter_equipment_3:0 "CAMCO PF-98"
  SHX_heavy_fighter_equipment_3_short:0 "PF-98"
- 
  GXC_fighter_equipment_0:0 "루차우 광지 3식"
  GXC_fighter_equipment_0_short:0 "3식"
  GXC_fighter_equipment_1:0 "CAMCO 호크"
@@ -1533,7 +1439,6 @@
  GXC_heavy_fighter_equipment_2_short:0 "PF-77"
  GXC_heavy_fighter_equipment_3:0 "CAMCO PF-98"
  GXC_heavy_fighter_equipment_3_short:0 "PF-98"
- 
  XSM_fighter_equipment_0:0 "루차우 광지 3식"
  XSM_fighter_equipment_0_short:0 "3식"
  XSM_fighter_equipment_1:0 "CAMCO 호크"
@@ -1574,7 +1479,6 @@
  XSM_heavy_fighter_equipment_2_short:0 "PF-77"
  XSM_heavy_fighter_equipment_3:0 "CAMCO PF-98"
  XSM_heavy_fighter_equipment_3_short:0 "PF-98"
- 
  YUN_fighter_equipment_0:0 "루차우 광지 3식"
  YUN_fighter_equipment_0_short:0 "3식"
  YUN_fighter_equipment_1:0 "CAMCO 호크"
@@ -1615,7 +1519,6 @@
  YUN_heavy_fighter_equipment_2_short:0 "PF-77"
  YUN_heavy_fighter_equipment_3:0 "CAMCO PF-98"
  YUN_heavy_fighter_equipment_3_short:0 "PF-98"
- 
  SIK_fighter_equipment_0:0 "루차우 광지 3식"
  SIK_fighter_equipment_0_short:0 "3식"
  SIK_fighter_equipment_1:0 "CAMCO 호크"
@@ -1656,7 +1559,6 @@
  SIK_heavy_fighter_equipment_2_short:0 "PF-77"
  SIK_heavy_fighter_equipment_3:0 "CAMCO PF-98"
  SIK_heavy_fighter_equipment_3_short:0 "PF-98"
- 
  PRC_fighter_equipment_0:0 "루차우 광지 3식"
  PRC_fighter_equipment_0_short:0 "3식"
  PRC_fighter_equipment_1:0 "J-1"
@@ -1697,8 +1599,6 @@
  PRC_heavy_fighter_equipment_2_short:0 "JH-2"
  PRC_heavy_fighter_equipment_3:0 "JH-3"
  PRC_heavy_fighter_equipment_3_short:0 "JH-3"
- 
- #yugoslavian planes
  SER_fighter_equipment_0:0 "아비아-이카루스 BH-33"
  SER_fighter_equipment_0_short:0 "BH-33"
  SER_fighter_equipment_1:0 "이카루스 IK-2"
@@ -1707,21 +1607,18 @@
  SER_fighter_equipment_2_short:0 "IK-3"
  SER_fighter_equipment_3:0 "이카루스 S-49"
  SER_fighter_equipment_3_short:0 "S-49"
- 
  SER_heavy_fighter_equipment_1:0 "로고자르스키 IK-5"
  SER_heavy_fighter_equipment_1_short:0 "IK-5"
  SER_heavy_fighter_equipment_2:0 "로고자르스키 R-313"
  SER_heavy_fighter_equipment_2_short:0 "R-313"
  SER_heavy_fighter_equipment_3:0 "Nenadovic-Mitrovic"
  SER_heavy_fighter_equipment_3_short:0 "NEMI"
- 
  SER_CAS_equipment_1:1 "로고자르스키 R-100"
  SER_CAS_equipment_1_short:1 "R-100"
  SER_CAS_equipment_2:0 "이카루스 오르칸"
  SER_CAS_equipment_2_short:0 "이카루스 오르칸"
  SER_CAS_equipment_3:0 "이카루스 타이푼"
  SER_CAS_equipment_3_short:0 "이카루스 타이푼"
- 
  SER_tac_bomber_equipment_0:1 "즈마이 A-5"
  SER_tac_bomber_equipment_0_short:1 "A-5"
  SER_tac_bomber_equipment_1:1 "즈마이 C-17"
@@ -1730,7 +1627,6 @@
  SER_tac_bomber_equipment_2_short:1 "G-2"
  SER_tac_bomber_equipment_3:0 "즈마이 R-1"
  SER_tac_bomber_equipment_3_short:0 "R-1"
-
  SER_strat_bomber_equipment_0:0 "로고자르스키 R-401"
  SER_strat_bomber_equipment_0_short:0 "R-401"
  SER_strat_bomber_equipment_1:0 "즈마이 Q-12"
@@ -1739,10 +1635,39 @@
  SER_strat_bomber_equipment_2_short:0 "R-522"
  SER_strat_bomber_equipment_3:0 "즈마이 T-155"
  SER_strat_bomber_equipment_3_short:0 "T-155"
- 
  SER_nav_bomber_equipment_1:0 "로고자르스키 SIM-XIV-H"
  SER_nav_bomber_equipment_1_short:0 "SIM-XIV-H"
  SER_nav_bomber_equipment_2:0 "로고자르스키 SIM-XIX-V"
  SER_nav_bomber_equipment_2_short:0 "SIM-XIX-V"
  SER_nav_bomber_equipment_3:0 "이카루스 IK-19"
  SER_nav_bomber_equipment_3_short:0 "IK-19"
+ scout_plane:0 "Scout Plane"
+ scout_plane_equipment_desc:0 "A plane developed specifically for photo reconnaisance. Relies primarily on speed and stealth to survive and will lose in any stand-up fight."
+ scout_plane_equipment:0 "Scout Planes"
+ scout_plane_equipment_1:0 "Scout Plane I"
+ scout_plane_equipment_1_desc:0 "Gathering intelligence on enemy troop movements and providing reports of enemy naval deployments has been the original mission for airplanes since their first deployment in the Great War, and is still an important mission."
+ scout_plane_equipment_2:0 "Scout Plane II"
+ scout_plane_equipment_2_desc:0 "By developing dedicated planes for aerial surveillance and long-range reconnaissance, we ensure that we gain and maintain an accurate picture of our opponent's intentions and capabilities."
+ GER_scout_plane_equipment_1:0 "Henschel Hs 126"
+ GER_scout_plane_equipment_1_short:0 "Hs. 126"
+ GER_scout_plane_equipment_2:0 "Focke-Wulf Fw 189"
+ GER_scout_plane_equipment_2_short:0 "Fw 189"
+ USA_scout_plane_equipment_1:0 "F4 Lightning"
+ USA_scout_plane_equipment_1_short:0 "F4"
+ USA_scout_plane_equipment_2:0 "F6 Mustang"
+ USA_scout_plane_equipment_2_short:0 "F6"
+ RUS_scout_plane_equipment_1:0 "R-10"
+ RUS_scout_plane_equipment_2:0 "Yak-2"
+ JAP_scout_plane_equipment_1:0 "Mitsubishi Ki-46"
+ JAP_scout_plane_equipment_1_short:0 "Ki-46"
+ JAP_scout_plane_equipment_2:0 "Nakajima J1N1-C"
+ JAP_scout_plane_equipment_2_short:0 "J1N1-C"
+ ITA_scout_plane_equipment_1:0 "Caproni Ca.310"
+ ITA_scout_plane_equipment_1_short:0 "Ca.310"
+ ITA_scout_plane_equipment_2:0 "Caproni Ca.311"
+ ITA_scout_plane_equipment_2_short:0 "Ca.311"
+ FRA_scout_plane_equipment_1:0 "Bloch MB-131"
+ FRA_scout_plane_equipment_1_short:0 "MB-131"
+ FRA_scout_plane_equipment_2:0 "CAO-700"
+ ENG_scout_plane_equipment_1:0 "Spitfire PR"
+ ENG_scout_plane_equipment_2:0 "Mosquito PR"

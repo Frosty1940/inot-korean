@@ -1,16 +1,14 @@
-﻿
-l_english:
+﻿l_english:
  communism:0 "스파르타쿠스주의"
  communism_noun:0 "스파르타쿠스주의"
  communism_subtype_desc:0 "경제와 역사의 관점을 폭넓게 아우르며,  스파르타쿠스주의적 정치는 카를 마르크스의 이론을 정치적 실천으로 옮길 방법을 모색하고자 했습니다. 계급 투쟁과 생산 수단의 공유에 기반한 사회로의 이행이 필요함을 강조하는 것이 이 이념의 특징과도 같습니다."
- socialist:0 "사회주의"                #####################CONSERVATIVES =/= Conservatism##### Socialist =/= socialism########
+ socialist:0 "사회주의"
  socialist_noun:0 "사회주의"
  socialist_subtype_desc:0 "사회주의는 생산, 분배, 교환의 수단이 공동체 전체에 의해 소유되거나 규제되어야 한다고 주장하는 사회 조직의 정치경제 이론입니다."
  democratic:0 "자유주의"
  democratic_noun:0 "자유주의"
  conservatives:0 "보수주의"
  conservatives_noun:0 "보수주의"
- conservatives_subtype_desc:0 "보수주의는 문화와 문명의 맥락에서 전통적인 사회 제도를 촉진하는 정치·사회 철학입니다. 보수주의의 중심에는 전통, 인간의 불완전성, 유기적인 사회, 계급과 권위와 재산권이 있습니다."
  fascism:0 "국민주의"
  conservatives_subtype_desc:0 "개인의 자유를 존중하는 오랜 철학적 전통을 통해, 자유주의는 이러한 권리를 보장하는 것을 국가의 제일 기능으로 간주합니다."
  fascism_noun:0 "국민주의"
@@ -57,7 +55,6 @@ l_english:
  moderatism_desc:1 "온건주의는 온건한 자세나 방침을 취함으로 급진적인 우파나 좌파를 피하는 정부의 형태입니다."
  centrism:1 "중도주의"
  centrism_desc:1 "중도주의는 현재와 미래에 필요한 것들을 상식적인 것으로 적절히 연설을 통해 해결하기를 원하는 정부의 한 형태로, 대중의 믿음과 위험을 고려하는 중도선을 이러한 요구의 맥락에서 수용하는 것을 지지합니다."
-
  POL_fascism_party:0 "국민급진기지 팔랑가"
  POL_fascism_party_long:0 "국민급진기지 팔랑가"
  POL_communism_party:0 "폴란드 사회당"
@@ -81,37 +78,30 @@ l_english:
  JAP_socialist_party:0 "사회대중당"
  JAP_neutrality_party:0 "황도파"
  JAP_fascism_party:0 "반동 군국주의자"
-
  USA_communism_party:0 "미국 공산당"
  USA_democratic_party:0 "민주당"
  USA_conservatives_party:0 "공화당"
- #USA_republican_party:0 "공화당"
  USA_socialist_party:0 "미국 사회당"
  USA_fascism_party:0 "미국 은색군단"
  USA_neutrality_party:0 "미국제일당"
-
  FRA_communism_party:0 "프랑스 공산당"
  FRA_democratic_party:0 "급진당"
  FRA_fascism_party:0 "제국주의자"
  FRA_neutrality_party:0 "왕당파"
-
  SOV_communism_party:0 "전연합공산당"
  SOV_democratic_party:0 "트루도비크"
  SOV_fascism_party:0 "러시아 파시스트당"
-
  AUS_communism_party:0 "오스트리아 공산당"
  AUS_communism_party_long:0 "오스트리아 공산당"
  AUS_democratic_party:0 "대독일 국민당"
  AUS_democratic_party_long:0 "대독일 국민당"
  AUS_fascism_party:0 "보국단"
- AUS_fascism_party_long:0 "보국단" 
+ AUS_fascism_party_long:0 "보국단"
  AUS_neutrality_party:0 "란트분트"
  AUS_neutrality_party_long:0 "란트분트"
  AUS_conservatives_party:0 "기독사회당"
  AUS_conservatives_party_long:0 "기독사회당"
  AUS_socialist_party:0 "오스트리아 사회민주당"
- AUS_socialist_party_long:0 "오스트리아 사회민주당"
-
  CHI_communism_party:0 "공산주의 반군"
  CHI_communism_party_long:0 "공산주의 지하세력\n§g 수천 명의 공산당원들이 살해된 상하이 대학살 이후 공산당은 공화국 전체에서 억압당했습니다. 그 당의 모든 구성원이나 지지자들은 공화주의 세력에 의해 죽을 때까지 쫓길 것입니다. 공산당의 주요 세력은 긴 행진에 착수하여 중국의 서쪽 산악으로 도피했습니다. 공화국의 마지막 공산주의 지지자들은 지하에 숨어 소수의 사람들로만 구성되어 있습니다."
  CHI_communism_party_reborn:0 "중국 공산당"
@@ -126,9 +116,7 @@ l_english:
  CHI_socialist_party_long:0 "중국 사회당\n§g"
  CHI_conservatives_party:0 "국민당 우파"
  CHI_conservatives_party_long:0 "국민당 우파\n§g 우파는 보수주의자, 반동주의자, 민족주의자들로 구성되어 있습니다. 우익은 현재 후한민이 이끌고 있습니다. 한민은 우파 세력을 유지하며, 우파의 다양한 시각을 함께 지켜내는 데 큰 공을 세웠습니다. 그러나 만약 그가 이 자리를 잃게 된다면 우익이 어떻게 될지는 미지수입니다. 민족주의자들과 반동주의자들은 예상대로 장제스와 함께할 것이고 나머지는 장제스의 공격적인 입장에 반대하기 위해 더 많은 자유주의적인 입장을 취할 것입니다."
-
  XSM_neutrality_party:0 "마가군벌"
-
  SPR_fascism_party_long:0 "스페인 국민당"
  SPR_fascism_party:0 "스페인 국민당"
  SPR_democratic_party:0 "공화좌파"
@@ -139,35 +127,8 @@ l_english:
  SPR_socialist_party:0 "스페인 사회노동자당"
  SPR_communism_party:0 "스페인 공산당"
  SPR_communism_party_long:0 "스페인 공산당"
- SPR_neutrality_party:0 "군사 정부"  #RE
- SPR_neutrality_party_long:0 "군사 정부" #Renovación Española
- 
- SPA_fascism_party_long:0 "스페인 국민당"
- SPA_fascism_party:0 "스페인 국민당"
- SPA_democratic_party:0 "공화좌파"
- SPA_democratic_party_long:0 "공화좌파"
- SPA_conservatives_party_long:0 "스페인 자치 우익 연합"
- SPA_conservatives_party:0 "스페인 자치 우익 연합"
- SPA_socialist_party_long:0 "스페인 사회노동자당"
- SPA_socialist_party:0 "스페인 사회노동자당"
- SPA_communism_party:0 "스페인 공산당"
- SPA_communism_party_long:0 "스페인 공산당"
- SPA_neutrality_party:0 "군사 정부"  #RE
- SPA_neutrality_party_long:0 "군사 정부" #Renovación Española
-
- SPC_fascism_party_long:0 "스페인 국민당"
- SPC_fascism_party:0 "스페인 국민당"
- SPC_democratic_party:0 "공화좌파"
- SPC_democratic_party_long:0 "공화좌파"
- SPC_conservatives_party_long:0 "스페인 자치 우익 연합"
- SPC_conservatives_party:0 "스페인 자치 우익 연합"
- SPC_socialist_party_long:0 "스페인 사회노동자당"
- SPC_socialist_party:0 "스페인 사회노동자당"
- SPC_communism_party:0 "스페인 공산당"
- SPC_communism_party_long:0 "스페인 공산당"
- SPC_neutrality_party:0 "군사 정부"  #RE
- SPC_neutrality_party_long:0 "군사 정부" #Renovación Española
-
+ SPR_neutrality_party:0 "군사 정부"
+ SPR_neutrality_party_long:0 "군사 정부"
  POR_neutrality_party:0 "에스타도 노보"
  POR_communism_party:0 "포르투갈 공산당"
  POR_communism_party_long:0 "포르투갈 공산당"
@@ -194,12 +155,11 @@ l_english:
  LAT_communism_party:0 "라트비아 공산당"
  LAT_communism_party_long:0 "라트비아 공산당"
  EST_neutrality_party:0 "조국전선"
- EST_democratic_party:0 "국가중앙당"
+ EST_ndemocratic_party:0 "국가중앙당"
  EST_democratic_party_long:0 "국가중앙당"
  IRQ_neutrality_party:0 "왕당파"
  IRQ_fascism_party:0 "황금 광장"
  IRQ_communism_party:0 "공산당"
-
  SWE_communism_party:0 "스웨덴 공산당"
  SWE_communism_party_long:0 "스웨덴 공산당"
  SWE_socialist_party:0 "사회민주노동당"
@@ -212,7 +172,6 @@ l_english:
  SWE_neutrality_party_long:0 "왕당파"
  SWE_fascism_party:0 "스웨덴 국가연맹"
  SWE_fascism_party_long:0 "스웨덴 국가연맹"
- 
  FIN_neutrality_party:0 "중앙당"
  FIN_neutrality_party_long:0 "핀란드 중앙당"
  FIN_democratic_party:0 "핀란드 사회민주당"
@@ -273,7 +232,6 @@ l_english:
  BRA_democratic_party_long:1 "브라질 민주동맹"
  BRA_neutrality_party:0 "에스타도 노보"
  BRA_neutrality_party_long:0 "에스타도 노보"
-
  TUR_fascism_party:0 "국가당"
  TUR_fascism_party_long:0 "국가당"
  TUR_communism_party:0 "터키 공산당"
@@ -284,7 +242,6 @@ l_english:
  TUR_socialist_party:0 "터키 사회당"
  TUR_neutrality_party:0 "공화인민당"
  TUR_neutrality_party_long:0 "공화인민당"
-
  HUN_fascism_party:0 "호르티 저항군"
  HUN_fascism_party_cw:0 "호르티 정부"
  HUN_communism_party:0 "헝가리 공산당"
@@ -297,7 +254,6 @@ l_english:
  HUN_conservatives_party_long:0 "국민통합당"
  HUN_neutrality_party:0 "국민정통당"
  HUN_neutrality_party_long:0 "국민정통당"
-
  ROM_neutrality_party:0 "국가재건전선"
  ROM_neutrality_party_long:0 "국가재건전선"
  ROM_communism_party:0 "루마니아 공산당"
@@ -310,7 +266,6 @@ l_english:
  ROM_socialist_party_long:0 "사회당"
  ROM_conservatives_party:0 "보수당"
  ROM_conservatives_party_long:0 "보수당"
-
  YUG_communism_party:0 "유고슬라비아 공산당"
  YUG_communism_party_long:0 "유고슬라비아 공산당"
  YUG_democratic_party:0 "민주당"
@@ -365,7 +320,6 @@ l_english:
  HOL_democratic_party_long:0 "기독교역사연합"
  HOL_fascism_party:0 "네덜란드 국가사회주의 운동"
  HOL_fascism_party_long:0 "네덜란드 국가사회주의 운동"
- 
  BEL_communism_party:0 "벨기에 공산당"
  BEL_communism_party_long:0 "벨기에 공산당"
  BEL_socialist_party:0 "벨기에 노동당"
@@ -377,7 +331,6 @@ l_english:
  BEL_neutrality_party_long:0 "플란데런 국민연합"
  BEL_fascism_party:0 "렉시스트당"
  BEL_fascism_party_long:0 "렉시스트당"
-
  SWI_communism_party:0 "스위스 공산당"
  SWI_communism_party_long:0 "스위스 공산당"
  SWI_democratic_party:0 "연방 의회"
@@ -499,14 +452,13 @@ l_english:
  OMA_neutrality_party:0 "알 사이드 왕조"
  SIK_communism_party:0 "중국 공산당"
  SIK_communism_party_long:0 "중국 공산당"
- SIK_neutrality_party:0 "신강군벌"
  SIK_conservatives_party:0 "베이징 지지자"
  SIK_conservatives_party_desc:0 "베이징 지지자"
  SIK_democratic_party:0 "국민당"
  SIK_democratic_party_desc:0 "국민당 지지자"
  SIK_socialist_party:0 "국민당"
  SIK_socialist_party_desc:0 "국민당 지지자"
- SIK_fascism_party:0 "성의 반대파 군벌"
+ SIK_fascism_party:0 "신강군벌"
  TIB_neutrality_party:0 "레팅 린포체"
  YUN_neutrality_party:0 "국민당"
  MON_communism_party:0 "몽골 인민당"
@@ -562,36 +514,36 @@ l_english:
  ISR_democratic_party:0 "마페이"
  ISR_fascism_party:0 "헬펨"
  ISR_neutrality_party:0 "중앙위원회"
- VIN_fascism_party:0 "베트남 복원연맹" #or Reformation Society   
- VIN_democratic_party:0 "근로인격혁명당" #formed in early 50s
- VIN_communism_party:0 "베트남 공산당" #Viet Minh was more important in early years
+ VIN_fascism_party:0 "베트남 복원연맹"
+ VIN_democratic_party:0 "근로인격혁명당"
+ VIN_communism_party:0 "베트남 공산당"
  VIN_neutrality_party:0 "베트남 국민당"
  CAM_fascism_party:0 "크메르티당"
- CAM_democratic_party:0 "민주당" #formed in 1946 
- CAM_communism_party:0 "캄푸치아 공산당" # aka Khmer Communist Party or a different party Krom Pracheachon aka Krom
- CAM_neutrality_party:0 "평민공동사회" # or just Sangkum 1955, democratic but right leaning and anti communist
- INS_fascism_party:0 "신질서" #inspired by right wingers from 1960s
- INS_socialist_party:0 "인도네시아 국민당" #Indonesian National Party founded by Sukarno
- INS_socialist_party_long:0 "인도네시아 국민당" #Indonesian National Party founded by Sukarno
- INS_communism_party:0 "인도네시아 공산당" #Partai Komunis Indonesia
- INS_neutrality_party:0 "전통적인 통치자들" #Dontrlyknowwhattoputhereijustputmaybethedifferentsultanates
- INS_democratic_party:0 "인도네시아 국민당" #SamePartyreallyjustmemberswhoaremoreliberalandanti-socialist
+ CAM_democratic_party:0 "민주당"
+ CAM_communism_party:0 "캄푸치아 공산당"
+ CAM_neutrality_party:0 "평민공동사회"
+ INS_fascism_party:0 "신질서"
+ INS_socialist_party:0 "인도네시아 국민당"
+ INS_socialist_party_long:0 "인도네시아 국민당"
+ INS_communism_party:0 "인도네시아 공산당"
+ INS_neutrality_party:0 "전통적인 통치자들"
+ INS_democratic_party:0 "인도네시아 국민당"
  INS_conservatives_party:0 "국민협의회"
  INS_conservatives_party_long:0 "국민협의회"
  MAL_fascism_party:0 "범오세아니아 연합주의자"
- MAL_democratic_party:0 "통일말레이국민조직" #or UMNO or PEKEMBAR
- MAL_communism_party:0 "말레이 공산당" #or MCP
- MAL_neutrality_party:0 "말레이 청년연맹" #or KMM 
+ MAL_democratic_party:0 "통일말레이국민조직"
+ MAL_communism_party:0 "말레이 공산당"
+ MAL_neutrality_party:0 "말레이 청년연맹"
  LAO_fascism_party:0 "부족중앙집권당"
  LAO_democratic_party:0 "민주당"
  LAO_communism_party:0 "파테트라오"
  LAO_neutrality_party:0 "왕당파"
  MNT_fascism_party:0 "녹색당"
  MNT_democratic_party:0 "민주연맹"
- MNT_communism_party:0 "몬테네그로 공산당" #or KPCG
- MNT_neutrality_party:0 "연방당" # Montenegrin ultra nationalists, start democtratic right wing but went full fascist collaboration in 41'
+ MNT_communism_party:0 "몬테네그로 공산당"
+ MNT_neutrality_party:0 "연방당"
  UKR_fascism_party:0 "우크라이나 민족주의자 조직"
- UKR_democratic_party:0 "우크라이나 국가민주동맹" # or UNDO
+ UKR_democratic_party:0 "우크라이나 국가민주동맹"
  UKR_communism_party:0 "우크라이나 공산당"
  UKR_neutrality_party:0 "우크라이나 진보당"
  GEO_fascism_party:0 "트빌리시 의회"
@@ -607,7 +559,7 @@ l_english:
  AZR_communism_party:0 "아제르바이잔 공산당"
  AZR_neutrality_party:0 "에티하드"
  ARM_fascism_party:0 "아르메니아 군단"
- ARM_democratic_party:0 "아르메니아 혁명 연맹" #or ARF 
+ ARM_democratic_party:0 "아르메니아 혁명 연맹"
  ARM_communism_party:0 "아르메니아 공산당"
  ARM_neutrality_party:0 "중앙집권주의자"
  BLR_fascism_party:0 "벨라루스 중앙 라다"
@@ -617,38 +569,37 @@ l_english:
  PAK_democratic_party:0 "민주당"
  PAK_communism_party:0 "파키스탄 사회당"
  PAK_neutrality_party:0 "무슬림 연맹"
-
-################################
-RUS_conservatives_party:0 "입헌민주당"
-RUS_neutrality_party:0 "10월 17일 연합"
-RUS_democratic_party:0 "진보당"
-RUS_fascism_party:0 "러시아 의회"
-RUS_socialist_party:0 "사회민주노동당"
-RUS_socialist_party_long:0 "사회민주노동당"
-RUS_communism_party:0 "러시아 노동자당"
-
-BAV_communism_party:0 "독일 공산당"
-BAV_communism_party_long:0 "독일 공산당"
-BAV_democratic_party:0 "독일 기독교민주연합"
-BAV_fascism_party:0 "바이에른 국가사회주의당"
-BAV_fascism_party_long:0 "바이에른 국가사회주의당"
-BAV_neutrality_party:0 "비텔스바흐 충성파"
-BAV_conservatives_party:0 "바이에른 보수당"
-BAV_socialist_party:0 "바이에른 사회주의당"
-
-GER_neutrality_party_long:0 "독일 보수당"
-GER_neutrality_party:0 "독일 사회민주당"
-GER_socialist_party_long:0 "독일 사회민주당"
-GER_socialist_party:0 "독일 사회민주당"
-GER_conservatives_party_long:0 "독일 중앙당"
-GER_conservatives_party:0 "독일 중앙당"
-GER_fascism_party:0 "독일 국가인민당"
-GER_fascism_party_long:0 "독일 국가인민당"
-GER_communism_party:0 "독일 공산당"
-GER_democratic_party_long:0 "독일 민주당"
-GER_democratic_party:0 "독일 민주당"
-
-FRA_conservatives_party_long:0 "민주공화당 동맹"
-FRA_conservatives_party:0 "민주공화당 동맹"
-FRA_socialist_party_long:0 "노동자 인터내셔널 프랑스 지부"
-FRA_socialist_party:0 "노동자 인터내셔널 프랑스 지부"
+ RUS_conservatives_party:0 "입헌민주당"
+ RUS_neutrality_party:0 "10월 17일 연합"
+ RUS_democratic_party:0 "진보당"
+ RUS_fascism_party:0 "러시아 의회"
+ RUS_socialist_party:0 "사회민주노동당"
+ RUS_socialist_party_long:0 "사회민주노동당"
+ RUS_communism_party:0 "러시아 노동자당"
+ BAV_communism_party:0 "독일 공산당"
+ BAV_communism_party_long:0 "독일 공산당"
+ BAV_democratic_party:0 "독일 기독교민주연합"
+ BAV_fascism_party:0 "바이에른 국가사회주의당"
+ BAV_fascism_party_long:0 "바이에른 국가사회주의당"
+ BAV_neutrality_party:0 "비텔스바흐 충성파"
+ BAV_conservatives_party:0 "바이에른 보수당"
+ BAV_socialist_party:0 "바이에른 사회주의당"
+ GER_neutrality_party_long:0 "독일 보수당"
+ GER_neutrality_party:0 "독일 사회민주당"
+ GER_socialist_party_long:0 "독일 사회민주당"
+ GER_socialist_party:0 "독일 사회민주당"
+ GER_conservatives_party_long:0 "독일 중앙당"
+ GER_conservatives_party:0 "독일 중앙당"
+ GER_fascism_party:0 "독일 국가인민당"
+ GER_fascism_party_long:0 "독일 국가인민당"
+ GER_communism_party:0 "독일 공산당"
+ GER_democratic_party_long:0 "독일 민주당"
+ GER_democratic_party:0 "독일 민주당"
+ FRA_conservatives_party_long:0 "민주공화당 동맹"
+ FRA_conservatives_party:0 "민주공화당 동맹"
+ FRA_socialist_party_long:0 "노동자 인터내셔널 프랑스 지부"
+ FRA_socialist_party:0 "노동자 인터내셔널 프랑스 지부"
+ BUK_neutrality_party:0 "러시아-부하라 연합"
+ RMN_neutrality_party:0 "국민연합"
+ RFR_neutrality_party:0 "독일 충성당"
+ SIK_neutrality_party:0 "성스차이의 반군"

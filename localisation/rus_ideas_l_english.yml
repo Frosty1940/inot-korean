@@ -35,7 +35,7 @@
  RUS_russification:0 "러시아화"
  RUS_multinational_society:0 "다문화 사회"
  RUS_cinema:0 "국가주도 영화 산업"
- RUS_general_staff:0 "군대 보수파" #New 
+ RUS_general_staff:0 "군대 보수파"
  RUS_general_staff_desc:0 "대전이 끝난 지 오래되었음에도 불구하고 러시아군은 1917년 독일과 오스트리아군을 격파했을 당시와 유사한 군사체제를 유지하고 있습니다. 하지만 구식이고, 결점투성이이며, 쓸모없는 데도 이 교리를 채용하고 있습니다."
  RUS_general_staff_1:0 "초기 현대화"
  RUS_general_staff_2:0 "중기 현대화"
@@ -54,12 +54,9 @@
  RUS_inf_equipment_bonus:0 "확장된 보병장비 생산"
  RUS_militarism_focus:0 "러시아 군국주의 계획"
  russian_sanctions_idea:0 "러시아 경제 제재"
- RUS_wargoal_sphere_idea:0 "러시아의 영향권"
  RUS_bukhara_integration:0 "부하라 지역 통합"
  RUS_tsar_stays:0 "러시아에 남은 차르"
  RUS_tsar_leaves:0 "망명한 차르"
-
- ####country stuff####
  RUS_vladimir_nabokov:0 "블라디미르 나보코프"
  RUS_alexander_guchkov:0 "알렉산드르 구치코프"
  RUS_alexander_kolchak:0 "알렉산드르 콜차크"
@@ -87,9 +84,7 @@
  RUS_tkachov:0 "뱌체슬라프 트카초프"
  RUS_baranov:0 "표트르 바라노프"
  RUS_smirnov:0 "일리야 스미르노프"
- 
- 
- #### New Additions####
+ RUS_Pyotr_Struve:0 "표트르 스트루베"
  sikorsky_design_bureaus:0 "시코르스키 설계국"
  yakovlev_design_bureaus:0 "야코레프 설계국"
  dux_design_bureaus:0 "둑스 설계국"
@@ -98,9 +93,7 @@
  admiralty_verf_design_bureaus:0 "아드미랄티 조선소"
  obukhov_state_plants:0 "오부호프 국영 공장"
  RUS_wargoal_sphere_idea:0 "러시아의 영향권"
- ####COUNTRY STUFF####
  ilyushin_design_bureaus:0 "일류신 설계국"
- tupolev_design_bureaus:0 "투폴레프 설계국"
  grabin_design_bureaus:0 "그라빈 설계국"
  morozov_design_bureaus:0 "모로조프 설계국"
  astrov_design_bureaus:0 "아스트로프 설계국"
@@ -141,15 +134,12 @@
  tupolev_design_bureaus:0 "투폴레프 설계국"
  georgy_zhukovs:0 "게오르기 주코프"
  boris_shaposhnikovs:0 "보리스 샤포슈니코프"
- sergey_gorshkovs:0 "세르게이 고르시코프"
  vladimir_tributss:0 "블라디미르 트리뷰츠"
  sergei_rudenkos:0 "세르게이 루덴포"
  sergey_gorshkovs:0 "세르게이 고르시코프"
  alexander_golovanovs:0 "알렉산드르 골로바노프"
  igor_kurchatovs:0 "이고르 쿠르차토프"
  sergei_korolevs:0 "세르게이 콜로레프"
-
- ########################
  RUS_provisional_government_flag:0 "권력을 장악한 임시 정부"
  Mikhail_inagurated:0 "권력을 잡은 차르 미하일"
  RUS_russian_coup:0 "러시아 지도력"
@@ -164,13 +154,10 @@
  RUS_keeps_the_old_guard:0 "군대 보수파는 은퇴하지 않을 것입니다. 이것은 우리의 정치적 지배력을 높여주지만 약간의 화력을 희생시킬 것입니다."
  RUS_iranian_terrain:0 "이란 지형"
  RUS_iranian_terrain_desc:0 "이란의 지형은 극도로 어렵고 침략하기 어렵습니다. 이란인들은 외부로부터의 침략자들을 물리치기 위해 그것을 이용할 것입니다."
-
- #Decisions
  RUS_army_actions:0 "군사적 행동"
  RUS_no_step_back_decision:0 "국가총동원령"
- RUS_lenin_from_exile:0 "망명지에서 레닌을 데려오기" 
+ RUS_lenin_from_exile:0 "망명지에서 레닌을 데려오기"
  RUS_lenin_from_exile_desc:0 "진정한 혁명을 이루기 위해서는 위대한 공산주의 철학자 블라디미르 일리치 레닌을 망명에서 되찾아야 합니다."
-
  RUS_integrate_territories_decisions:0 "점령지 관리"
  RUS_integrate_territories_decisions_desc:0 "러시아의 점령하에 영토가 있습니다, 어떻게 해야 합니까?"
  RUS_fate_east_germany:0 "동독의 운명"
@@ -179,3 +166,9 @@
  RUS_fate_holland:0 "네덜란드 위성국화"
  RUS_fate_belgium:0 "벨기에 위성국화"
  RUS_fate_luxembourg:0 "룩셈부르크 위성국화"
+ RUS_integrate_estonia:0 "에스토니아 통합"
+ RUS_integrate_latvia:0 "쿠를란트-리보니아 통합"
+ RUS_integrate_lithuania:0 "리투아니아 통합"
+ RUS_integrate_karelia:0 "카렐리야 통합"
+ RUS_integrate_poland:0 "폴란드 통합"
+ RUS_integrate_turkestan:0 "투르키스탄 통합"

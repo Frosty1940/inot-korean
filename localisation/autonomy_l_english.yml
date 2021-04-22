@@ -1,4 +1,4 @@
-﻿ l_english:
+﻿l_english:
  autonomy_dominion:0 "자치령"
  autonomy_supervised_state:0 "피감독국"
  autonomy_colony:0 "식민지"
@@ -62,7 +62,4 @@
  CONSTRUCTION_MASTER_BUILDING_CANT_REDUCE:0 "§R우리는 수준을 줄이거나 이 건설을 취소할 수 없습니다.§!"
  CONSTRUCTION_INFO_MASTER:0 "이 건설은 $WHO|H$ 영역에 건설됩니다. 우리가 모든 공장을 사용하고 있지 않는다면, 그들은 그들의 공장을 사용하여 기여할 수 있습니다."
  CONSTRUCTION_INFO_SUBJECT:0 "이 건설은 우리를 위해 $WHO|H$에 의해 건설됩니다. 그들이 모든 공장을 사용하지 않는다면, 우리는 우리의 공장을 사용하여 기여할 수 있습니다."
- 
-
- ####
  autonomy_satellite_inot:0 "위성국"

@@ -96,7 +96,7 @@
  SER_france:0 "프랑스의 독립보장 요청"
  SER_france_desc:0 "French soldiers fought in Serbia, and Serbian soldiers fought in France. We could easily improve our relations by obtaining a French guarantee."
  SER_britain_expanded:0 "영국식 훈련"
- SER_britain_expanded_desc:0 "The British have beaten back the Spanish, the French, the Germans, the Romans, and the Vikings. If they can repel every invasion that comes at them, we can too. We should send our armies to the "Impenetrable Isles" to learn their secrets."
+ SER_britain_expanded_desc:0 "The British have beaten back the Spanish, the French, the Germans, the Romans, and the Vikings. If they can repel every invasion that comes at them, we can too. We should send our armies to the \"Impenetrable Isles\" to learn their secrets."
  SER_france_expanded:0 "프랑스식 전술"
  SER_france_expanded_desc:0 "French tactics haven't always been proven to work, especially in the Franco-Prussian War, but their methods are far better than what we have now."
  SER_foreign_volunteers:0 "서방 자원병"
@@ -164,7 +164,6 @@
  SER_rifles:0 "신형 소총"
  SER_rifles_desc:0 "The limits for what equipment can be carried by infantry are constantly being pushed. We will focus on giving our troops the best tools available."
  SER_tanks:0 "기갑 발상"
- SER_tanks_desc:0 "Applying what we have learned from mechanising our infantry, we can improve our armored vehicles as well.
  SER_airandnaval:0 "공군과 해군 현대화"
  SER_airandnaval_desc:0 "Our airforce and our navy are extremely outdated. They need to be retooled with the new methods of war developed during the Great War."
  SER_air:0 "공군 현대화"
@@ -195,4 +194,3 @@
  SER_take_greece_desc:0 "Greece an ally we have been through mud and snow. But how long will Greece still be a ally. They are distaning themself more and more from us. And the new Dictaturship there should not be underestimated. We should take them out now before their goal change."
  SER_take_bulgaria:0 "불가리아 제거"
  SER_take_bulgaria_desc:0 "Bulgaria was once an enemy. They tried to steal our lands in the Second Balkan War and tried it again in WW1 with the Central Powers. Bulgaria has been now crippled. But it seems like they want to regain their power by joining the Russians. We have to finally stop this madness."
-

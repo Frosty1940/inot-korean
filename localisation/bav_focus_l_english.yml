@@ -9,8 +9,6 @@
  BAV_revive_arms_desc:0 "러시아 침공 이후 우리 군수산업단지는 완전히 황폐해졌습니다. 이제 우리의 군수산업을 되살리고 대중을 무장시켜야 할 때입니다."
  BAV_subsidise:0 "로트슈탈파브리켄 지원"
  BAV_subsidise_desc:0 "로트슈탈파브리켄(Rotstahlfabriken)은 항상 산업과 무기 수출의 필수적인 부분이었습니다. 우리의 무기 산업을 확장하기 위해서 우리는 이러한 공장들에 보조금을 지급해야 합니다."
- #BAV_russian_settlements:0 "Bolshevik Settlement-Colonies"
- #BAV_russian_settlements_desc:0 "Now that the Tsar has finally turned his attention to the large Bolshevik population of Russia, many are looking to find a socialist haven of progress and industry. We should fund the development of Russian Settlement colonies throughout our land."
  BAV_bolshevik_militias:0 "볼셰비키 민병대"
  BAV_bolshevik_militias_desc:0 "볼셰비키 정착촌이 늘면서 가짜 '볼셰비키'들이 대거 침입해 제국주의 이념을 확산시키려 하고 있습니다. 몇몇 매우 걱정스러운 시민들은 기꺼이 무기를 들고 우리를 위해 거리를 청소하려고 합니다. 우리 장관들은 우리가 이 단체들에 자금을 댈 것을 제안하고 있습니다."
  BAV_infrastructure_effort:0 "로트슈트라세 건설"
@@ -133,7 +131,7 @@
  BAV_off_focus:0 "공세 중점"
  BAV_off_focus_desc:0 "우리가 확장하고 효과적이기를 원한다면 공격적인 교리를 채택해야 합니다."
  BAV_small_arms:0 "소화기 산업"
- BAV_small_arms_desc:0 "보병이 옮길 수 있는 장비에 대한 한계는 끊임없이 추진되고 있습니다. 우리는 가능한 한 소규모로 우리 부대에 최선의 도구를 제공하는 데 주력할 것입니다." ###############################
+ BAV_small_arms_desc:0 "보병이 옮길 수 있는 장비에 대한 한계는 끊임없이 추진되고 있습니다. 우리는 가능한 한 소규모로 우리 부대에 최선의 도구를 제공하는 데 주력할 것입니다."
  BAV_motorized_div:0 "차량화 주력"
  BAV_motorized_div_desc:0 "기동성과 보호는 보병들이 안전하게 야전 안팎에서 필수적입니다. 이러한 개발에 초점을 맞추면 신속하게 조치를 취할 수 있습니다."
  BAV_war_games:0 "기동 훈련"
@@ -184,8 +182,6 @@
  BAV_seek_reunification_desc:0 "통일은 필수적입니다. 독일은 붉은 깃발 아래, 붉은 독일 아래 재결합해야 합니다."
  BAV_anti_air:0 "대공방어 강화"
  BAV_anti_air_desc:0 "오늘날 세계에서는 공군이 전장을 지배하고 있습니다. 연합국과 러시아에 대한 공군력의 약점을 감추기 위해 우리는 독일 전역에 대한 안보를 제공하기 위해 방공망을 증강해야 합니다."
- 
- ##Decisions
  BAV_imminent_civil_war:0 "임박한 내전"
  BAV_imminent_civil_war_desc:0 "전선이 그려졌습니다... 독일 내전이 일어날 것은 매우 분명합니다. 프로이센인들은 올겨울 공세를 준비하고 있습니다. 독일 내의 나라들과 제휴해야 합니다. 당신의 나라와 동맹을 맺은 나라들이 당신과 함께 싸우게 될 것입니다."
  BAV_imminent_civil_war_decision:0 "내전 준비"
