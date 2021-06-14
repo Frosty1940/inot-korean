@@ -183,7 +183,7 @@
  BAV_anti_air:0 "대공방어 강화"
  BAV_anti_air_desc:0 "오늘날 세계에서는 공군이 전장을 지배하고 있습니다. 연합국과 러시아에 대한 공군력의 약점을 감추기 위해 우리는 독일 전역에 대한 안보를 제공하기 위해 방공망을 증강해야 합니다."
  BAV_imminent_civil_war:0 "임박한 내전"
- BAV_imminent_civil_war_desc:0 "전선이 그려졌습니다... 독일 내전이 일어날 것은 매우 분명합니다. 프로이센인들은 올겨울 공세를 준비하고 있습니다. 독일 내의 나라들과 제휴해야 합니다. 당신의 나라와 동맹을 맺은 나라들이 당신과 함께 싸우게 될 것입니다."
+ BAV_imminent_civil_war_desc:0 "전선이 그려졌습니다... 독일 내전이 일어날 것은 매우 분명합니다. 프로이센은 올겨울 공세를 준비하고 있습니다. 독일 내의 나라들과 제휴해야 합니다. 당신의 나라와 동맹을 맺은 나라들이 당신과 함께 싸우게 될 것입니다."
  BAV_imminent_civil_war_decision:0 "내전 준비"
  BAV_imminent_civil_war_outbreak_decision:0 "내전 발발!"
  BAV_align_SAX:0 "작센과의 제휴"
